@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sales Chatbot</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <!-- Chat Panel -->
+        <div class="chat-panel">
+            <h2>Sales Assistant Chat</h2>
+            <div id="chat-box"></div>
+        </div>
+
+        <!-- Analytics Panel -->
+        <div class="analytics-panel">
+            <h2>Sentiment Analysis</h2>
+            <canvas id="sentiment-chart" width="400" height="400"></canvas>
+            <h3>Intent Analysis</h3>
+            <div id="intent-box">Waiting for user input...</div>
+        </div>
+
+        <!-- Controls -->
+        <div class="controls">
+            <button id="start-btn">Start Bot</button>
+            <button id="stop-btn">Stop Bot</button>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script> <!-- Make sure Chart.js is included -->
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #e0e0e0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    height: 90%;
+    gap: 20px; /* Added gap between chat and analytics panels */
+}
+
+.chat-panel {
+    flex: 2;
+    padding: 20px;
+    border-right: 1px solid #333;
+    overflow-y: auto;
+    height: 100%; /* Ensure it takes full height */
+}
+
+.analytics-panel {
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+#chat-box {
+    background: #1e1e1e;
+    padding: 10px;
+    height: calc(100% - 40px); /* Subtracting padding to make space for controls */
+    overflow-y: auto;
+    border-radius: 10px;
+    margin-bottom: 20px; /* Added margin for better readability */
+}
+
+#intent-box {
+    margin-top: 20px;
+    background: #1e1e1e;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Added transition for hover effect */
+}
+
+button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+canvas {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
