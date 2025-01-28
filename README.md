@@ -366,7 +366,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 For questions or feedback, reach out:
 
 - **Email**: [sujitha25124@gmail.com](mailto:sujitha25124@gmail.com)
-- **GitHub**: [Sujitha-P](https://github.com/Sujitha-P))
+- **GitHub**: [Sujitha-P](https://github.com/Sujitha-P)
 - **LinkedIn**: [Sujitha P](https://www.linkedin.com/in/sujitha-p-03894a257)
 
 ---
