@@ -1,0 +1,534 @@
+{
+    "users": [
+        {
+            "email": "suryaanarayanan.k.2020.ad@ritchennai.edu.in",
+            "preferences": [],
+            "history": [
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:19:26.685722"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:20:29.250074"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:25:07.592669"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:25:17.099779"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:25:42.631516"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:45:06.197881"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:48:27.232045"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:48:41.611550"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:52:57.653685"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:54:25.467136"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T14:54:30.625334"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T15:00:46.358066"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T15:00:50.277147"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-25T15:00:52.159398"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:02:49.931328"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:07:26.391498"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:08:28.638532"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:10:13.117149"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:13:59.930850"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:16:48.366308"
+                },
+                {
+                    "product": "smart watches",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:18:31.908229"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:21:12.497434"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:26:14.253923"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:38:07.101844"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:32:00.046324"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:35:58.539921"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:37:37.196511"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:42:16.408680"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:46:16.439687"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:51:24.240634"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:51:40.931476"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:19:57.252813"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:23:57.977718"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:24:01.410410"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:24:06.591547"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:16:22.004459"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:26:09.220782"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:46:00.040729"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:58:34.657977"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T12:10:14.819118"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T12:10:19.700756"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T12:10:22.682916"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T14:14:42.657748"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:14:08.781596"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:14:40.526912"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:14:58.291960"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:15:01.336271"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:15:06.525209"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T09:42:12.872778"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:13:44.187711"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:14:26.873022"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:15:35.302648"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:25:59.275316"
+                }
+            ],
+            "budget": null,
+            "feedback_history": [
+                {
+                    "input": "can you suggest me some new smartphone",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-25T14:18:47.984949"
+                },
+                {
+                    "input": "any new headphone available",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-25T14:21:27.281002"
+                },
+                {
+                    "input": "any headphones",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-25T14:25:16.364345"
+                },
+                {
+                    "input": "Your speech will appear here...",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-25T14:54:12.319601"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-25T14:54:29.856756"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-25T15:00:49.518941"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-25T15:00:51.408768"
+                },
+                {
+                    "input": "Your speech will appear here...",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-25T15:02:15.280434"
+                },
+                {
+                    "input": "suggest me some new laptops",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-26T15:24:00.589693"
+                },
+                {
+                    "input": "suggest me some new laptops",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-26T15:24:04.116490"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-27T12:10:18.696024"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-27T12:10:21.688973"
+                },
+                {
+                    "input": " new laptops paragraph",
+                    "feedback": "thumbs_up",
+                    "timestamp": "2025-01-27T15:14:57.428094"
+                },
+                {
+                    "input": " new laptops paragraph",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-27T15:15:00.484841"
+                },
+                {
+                    "input": " new laptops paragraph",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-27T15:15:05.670006"
+                },
+                {
+                    "input": "suggest me some new smartphones",
+                    "feedback": "thumbs_down",
+                    "timestamp": "2025-01-28T10:14:25.998832"
+                }
+            ]
+        },
+        {
+            "email": "unknown@example.com",
+            "preferences": [],
+            "history": [
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:07:37.143828"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:08:45.987946"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:14:11.934037"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:17:04.882357"
+                },
+                {
+                    "product": "smart watches",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:18:43.084874"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:21:27.037552"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:25:10.900327"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:26:27.264184"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:38:19.563034"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:32:21.286520"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:36:12.826645"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:37:55.921658"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:42:28.025317"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:46:29.239328"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T14:51:51.085240"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:20:12.551804"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T15:24:15.315133"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:16:52.197284"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:26:27.276579"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:49:25.463853"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:51:23.673287"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:53:00.261613"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T10:58:49.686119"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T12:10:44.999501"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T14:15:00.172477"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-27T15:14:50.687564"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T09:42:27.724764"
+                },
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:13:57.928365"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:16:08.750711"
+                },
+                {
+                    "product": "laptops",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:16:54.054214"
+                },
+                {
+                    "product": "headphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-28T10:26:15.043725"
+                }
+            ],
+            "budget": null,
+            "feedback_history": []
+        },
+        {
+            "email": "sun@gmail.com",
+            "preferences": [],
+            "history": [
+                {
+                    "product": "smartphones",
+                    "action": "searched",
+                    "timestamp": "2025-01-26T11:24:57.138018"
+                }
+            ],
+            "budget": null,
+            "feedback_history": []
+        }
+    ]
+}

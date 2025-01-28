@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentimind AI</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.4/xlsx.full.min.js"></script>
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body class="bg-gradient-to-b from-gray-800 to-gray-900 text-gray-200 h-screen p-8">
+
+    <!-- Initial Form -->
+    <div id="initial-form" class="max-w-md mx-auto mt-20">
+        <h1 class="text-4xl font-extrabold text-gray-100 mb-6 text-center">Welcome to Sentimind AI</h1>
+        <form id="user-info-form" class="bg-gray-700 p-6 rounded-lg shadow-md">
+            <div class="mb-4">
+                <label for="name" class="block text-gray-300 mb-2">Name</label>
+                <input type="text" id="name" name="name" class="w-full px-3 py-2 bg-gray-600 text-gray-200 rounded-lg"
+                    required>
+            </div>
+            <div class="mb-6">
+                <label for="email" class="block text-gray-300 mb-2">Email</label>
+                <input type="email" id="email" name="email"
+                    class="w-full px-3 py-2 bg-gray-600 text-gray-200 rounded-lg" required>
+            </div>
+            <button type="submit"
+                class="w-full bg-blue-600 text-white py-2 rounded-lg hover:bg-blue-500 transition-all">Connect</button>
+        </form>
+    </div>
+
+    <!-- Main Content Wrapper -->
+    <div id="main-content" class="max-w-7xl mx-auto hidden">
+        <!-- Toggle Switch at Top Right Corner -->
+        <div class="absolute top-4 right-4 flex items-center space-x-2">
+            <span class="text-gray-300">UV</span>
+            <label class="switch">
+                <input type="checkbox" id="view-toggle">
+                <span class="slider round"></span>
+            </label>
+            <span class="text-gray-300">SV</span>
+        </div>
+
+        <!-- Header Section -->
+        <header class="text-center mb-10">
+            <h1 class="text-4xl font-extrabold text-gray-100 mb-3">🎙️ Sentimind AI: Real-Time Sentiment & Intent
+                Analysis 📊</h1>
+        </header>
+
+        <!-- User View Layout -->
+        <div id="user-view" class="flex flex-col md:flex-row gap-6 p-6">
+            <!-- Left: Live Transcript -->
+            <div class="flex-1 bg-gray-700 p-6 rounded-lg shadow-md">
+                <h2 class="text-2xl font-semibold mb-4 text-gray-100">🗣️ Live Transcription</h2>
+                <div class="bg-gray-800 p-4 rounded-lg h-[500px] overflow-y-auto">
+                    <p id="spoken-text" class="text-lg text-gray-200">Your speech will appear here...</p>
+                </div>
+            </div>
+
+            <!-- Middle: Microphone Button and Save Transcript Button -->
+            <div class="flex items-center justify-center">
+                <!-- Start Recording Button (Phone Icon) -->
+                <button id="start-recording"
+                    class="w-16 h-16 bg-green-600 text-white rounded-full shadow-lg transform hover:scale-105 hover:bg-green-500 transition-all flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 24 24" fill="currentColor">
+                        <path
+                            d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                    </svg>
+                </button>
+
+                <!-- Stop Recording Button (Phone Hangup Icon) -->
+                <button id="stop-recording"
+                    class="w-16 h-16 bg-red-600 text-white rounded-full shadow-lg hidden transform hover:scale-105 hover:bg-red-500 transition-all flex items-center justify-center">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" viewBox="0 0 24 24" fill="currentColor">
+                        <path
+                            d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z" />
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                            d="M6 18L18 6M6 6l12 12" />
+                    </svg>
+                </button>
+
+                <button id="save-transcript"
+                    class="w-16 h-16 bg-blue-600 text-white rounded-full shadow-lg transform hover:scale-105 hover:bg-blue-500 transition-all flex items-center justify-center hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="h-8 w-8" fill="none" viewBox="0 0 24 24"
+                        stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Right: Suggestions -->
+            <div class="flex-1 bg-gray-700 p-6 rounded-lg shadow-md relative">
+                <h2 class="text-2xl font-semibold mb-4 text-gray-100">💡Recommendations</h2>
+                <div class="bg-gray-800 p-4 rounded-lg h-[500px] overflow-y-auto">
+                    <p id="suggestions-result" class="text-lg text-gray-200">Recommendations will appear here...</p>
+                </div>
+                <!-- Add this inside the "Recommendations" section -->
+                <div class="absolute bottom-2 right-2 flex space-x-2">
+                    <!-- Thumbs Up Icon -->
+                    <button id="thumbs-up" class="text-gray-400 hover:text-gray-300 transition-all">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path
+                                d="M2 10.5a1.5 1.5 0 113 0v6a1.5 1.5 0 01-3 0v-6zM6 10.333v5.43a2 2 0 001.106 1.79l.05.025A4 4 0 008.943 18h5.416a2 2 0 001.962-1.608l1.2-6A2 2 0 0015.56 8H12V4a2 2 0 00-2-2 1 1 0 00-1 1v.667a4 4 0 01-.8 2.4L6.8 7.933a4 4 0 00-.8 2.4z" />
+                        </svg>
+                    </button>
+
+                    <!-- Thumbs Down Icon -->
+                    <button id="thumbs-down" class="text-gray-400 hover:text-gray-300 transition-all">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+                            <path
+                                d="M18 9.5a1.5 1.5 0 11-3 0v-6a1.5 1.5 0 013 0v6zM14 9.667v-5.43a2 2 0 00-1.105-1.79l-.05-.025A4 4 0 0011.055 2H5.64a2 2 0 00-1.962 1.608l-1.2 6A2 2 0 004.44 12H8v4a2 2 0 002 2 1 1 0 001-1v-.667a4 4 0 01.8-2.4l1.4-1.866a4 4 0 00.8-2.4z" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Salesperson View Content -->
+        <div id="salesperson-view" class="hidden">
+            <!-- Salesperson View Layout -->
+            <div class="flex flex-col md:flex-row gap-10 mb-10">
+                <!-- Left Column: Transcription and Sentiment Trend -->
+                <div class="flex-1">
+                    <!-- Live Transcription Section -->
+                    <div class="mb-8">
+                        <h2 class="text-2xl font-semibold mb-4 text-gray-100">🗣️ Live Transcription:</h2>
+                        <div class="bg-gray-800 p-4 rounded-lg h-[500px] overflow-y-auto">
+                            <ul id="transcription-list" class="text-lg text-gray-200">
+                                <!-- Transcripts with timestamps will appear here -->
+                            </ul>
+                        </div>
+                    </div>
+
+                    <!-- Sentiment Trend Chart -->
+                    <div class="mb-8">
+                        <h2 class="text-2xl font-semibold mb-4 text-gray-100">📊 Sentiment Trend:</h2>
+                        <div class="bg-gray-800 p-4 rounded-lg">
+                            <canvas id="sentiment-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Column: Engagement and Intent Analysis -->
+                <div class="flex-1">
+                    <!-- Current Sentiment and Emotional State -->
+                    <div class="mt-8 bg-gray-800 p-4 rounded-lg shadow-md mb-8">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Current Sentiment</h3>
+                        <div class="bg-gray-700 p-4 rounded-lg h-[150px] overflow-y-auto">
+                            <p id="sentiment-result" class="text-lg text-gray-200 whitespace-pre-line">Neutral</p>
+                        </div>
+                    </div>
+
+                    <!-- Emotional State -->
+                    <div class="mt-8 bg-gray-800 p-4 rounded-lg shadow-md mb-8">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Emotional State</h3>
+                        <div class="bg-gray-700 p-4 rounded-lg h-[150px] overflow-y-auto">
+                            <p id="emotion-result" class="text-lg text-gray-200 whitespace-pre-line">Neutral</p>
+                        </div>
+                    </div>
+
+                    <!-- Buyer Engagement Section -->
+                    <div class="mt-8 bg-gray-800 p-4 rounded-lg shadow-md mb-8">
+                        <h3 class="text-lg font-medium text-gray-300">Buyer Engagement</h3>
+                        <div class="relative mt-4 bg-gray-600 h-6 rounded-lg overflow-hidden">
+                            <div id="engagement-bar" class="absolute top-0 left-0 h-full"
+                                style="width: 50%; background-color: orange;"></div>
+                        </div>
+                        <p id="engagement-feedback" class="mt-2 text-lg text-gray-100 text-center">Moderate engagement
+                        </p>
+                    </div>
+
+                    <!-- Intent Analysis Section -->
+                    <div class="mt-8 bg-gray-800 p-4 rounded-lg shadow-md mb-8">
+                        <h3 class="text-lg font-medium text-gray-300">Intent Analysis</h3>
+                        <div class="mt-4">
+                            <p id="purchase-intent" class="text-lg text-gray-200 whitespace-pre-line">Purchase Intent:
+                                Not Available</p>
+                            <p id="behavioral-intent" class="text-lg text-gray-200 whitespace-pre-line">Behavioral
+                                Intent: Not Available</p>
+                            <p id="advanced-intent" class="text-lg text-gray-200 whitespace-pre-line">Advanced Intent:
+                                Not Available</p>
+                        </div>
+                    </div>
+
+                    <!-- Save Transcript Button in Sales View -->
+                    <div class="mt-8 flex justify-center">
+                        <button id="save-transcript-sales"
+                            class="w-48 h-12 bg-blue-600 text-white rounded-lg shadow-lg transform hover:scale-105 hover:bg-blue-500 transition-all flex items-center justify-center">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24"
+                                stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M5 13l4 4L19 7" />
+                            </svg>
+                            Save Transcript
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Post-Call Insights Section -->
+            <div id="post-call-insights" class="hidden bg-gray-700 p-6 rounded-lg shadow-md mt-6">
+                <h2 class="text-2xl font-semibold mb-4 text-gray-100">📊 Post-Call Insights</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Call Summary -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Call Summary</h3>
+                        <p id="call-summary" class="text-lg text-gray-200 whitespace-pre-line">Summary will appear
+                            here...</p>
+                    </div>
+
+                    <!-- Performance Analytics -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Performance Analytics</h3>
+                        <p id="performance-analytics" class="text-lg text-gray-200 whitespace-pre-line">Analytics will
+                            appear here...</p>
+                    </div>
+
+                    <!-- Deal Status -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Deal Status</h3>
+                        <p id="deal-status" class="text-lg text-gray-200 whitespace-pre-line">Status will appear here...
+                        </p>
+                    </div>
+
+                    <!-- Follow-Up Suggestions -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Follow-Up Suggestions</h3>
+                        <p id="follow-up-suggestions" class="text-lg text-gray-200 whitespace-pre-line">Suggestions will
+                            appear here...</p>
+                    </div>
+                </div>
+
+                <!-- Save Insights Button -->
+                <div class="mt-6 flex justify-center">
+                    <button id="save-insights"
+                        class="w-48 h-12 bg-blue-600 text-white rounded-lg shadow-lg transform hover:scale-105 hover:bg-blue-500 transition-all flex items-center justify-center">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 mr-2" fill="none" viewBox="0 0 24 24"
+                            stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7" />
+                        </svg>
+                        Save Insights
+                    </button>
+                </div>
+            </div>
+
+            <!-- AI-Powered Negotiation Coach Section -->
+            <div id="negotiation-coach" class="hidden bg-gray-700 p-6 rounded-lg shadow-md mt-6">
+                <h2 class="text-2xl font-semibold mb-4 text-gray-100">🤖 AI-Powered Negotiation Coach</h2>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <!-- Negotiation Tactics -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Negotiation Tactics</h3>
+                        <p id="negotiation-tactics" class="text-lg text-gray-200 whitespace-pre-line">Tactics will
+                            appear here...</p>
+                    </div>
+
+                    <!-- Objection Handling -->
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <h3 class="text-lg font-medium text-gray-300 mb-2">Objection Handling</h3>
+                        <p id="objection-handling" class="text-lg text-gray-200 whitespace-pre-line">Suggestions will
+                            appear here...</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Loading Spinner -->
+    <div id="loading-spinner" class="hidden fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center">
+        <div class="bg-gray-800 p-6 rounded-lg shadow-lg">
+            <p class="text-gray-200">Generating insights...</p>
+        </div>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="js/script.js"></script>
+</body>
+
+</html>

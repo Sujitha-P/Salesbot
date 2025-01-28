@@ -1,0 +1,313 @@
+/* Toggle Switch Styles */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 30px;
+  /* Reduced from 60px */
+  height: 17px;
+  /* Reduced from 34px */
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #4caf50;
+  /* Green for User View */
+  transition: 0.4s;
+  border-radius: 17px;
+  /* Adjusted for smaller size */
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 13px;
+  /* Reduced from 26px */
+  width: 13px;
+  /* Reduced from 26px */
+  left: 2px;
+  /* Adjusted for smaller size */
+  bottom: 2px;
+  /* Adjusted for smaller size */
+  background-color: white;
+  transition: 0.4s;
+  border-radius: 50%;
+}
+
+input:checked + .slider {
+  background-color: #9c27b0;
+  /* Purple for Salesperson View */
+}
+
+input:checked + .slider:before {
+  transform: translateX(13px);
+  /* Adjusted for smaller size */
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 17px;
+  /* Adjusted for smaller size */
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+/* Ensure the microphone button is centered */
+.flex.items-center.justify-center {
+  margin: 0 20px;
+  /* Add some spacing around the mic button */
+}
+
+#suggestions-result {
+  white-space: pre-line;
+  /* Preserve line breaks in the recommendations */
+  font-family: "Courier New", Courier, monospace;
+  /* Monospace font for better readability */
+  line-height: 1.6;
+  /* Improve line spacing */
+  padding: 10px;
+  background-color: #2d3748;
+  /* Darker background for contrast */
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+/* Transcription List Styling */
+#transcription-list {
+  list-style-type: none;
+  /* Remove default bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+#transcription-list li {
+  padding: 8px 12px;
+  margin-bottom: 8px;
+  background-color: #2d3748;
+  /* Darker background for contrast */
+  border-radius: 8px;
+  font-family: "Courier New", Courier, monospace;
+  /* Monospace font for better readability */
+  line-height: 1.6;
+  /* Improve line spacing */
+}
+
+/* Scrollable areas for transcript and suggestions */
+.overflow-y-auto {
+  scrollbar-width: thin;
+  scrollbar-color: #4a5568 #2d3748;
+}
+
+.overflow-y-auto::-webkit-scrollbar {
+  width: 8px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-thumb {
+  background-color: #4a5568;
+  border-radius: 4px;
+}
+
+.overflow-y-auto::-webkit-scrollbar-track {
+  background-color: #2d3748;
+}
+
+@media (max-width: 768px) {
+  #user-view {
+    flex-direction: column;
+    /* Stack sections vertically on smaller screens */
+  }
+
+  #salesperson-view {
+    flex-direction: column;
+    /* Stack sections vertically on smaller screens */
+  }
+
+  .flex.items-center.justify-center {
+    margin: 10px 0;
+    /* Adjust spacing for mic button on smaller screens */
+  }
+}
+
+/* Apply the same styling to Sales View sections */
+#sentiment-result,
+#emotion-result,
+#purchase-intent,
+#behavioral-intent,
+#advanced-intent,
+#call-summary,
+#performance-analytics,
+#deal-status,
+#follow-up-suggestions,
+#negotiation-tactics,
+#objection-handling {
+  white-space: pre-line;
+  /* Preserve line breaks */
+  font-family: "Courier New", Courier, monospace;
+  /* Monospace font */
+  line-height: 1.6;
+  /* Improve line spacing */
+  padding: 10px;
+  background-color: #2d3748;
+  /* Darker background for contrast */
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.bg-gray-700.overflow-y-auto {
+  height: 150px;
+  /* Set a fixed height */
+  overflow-y: auto;
+  /* Make content scrollable */
+}
+
+/* Ensure scrollable containers in Sales View */
+#post-call-insights .bg-gray-800,
+#negotiation-coach .bg-gray-800 {
+  height: 500px;
+  /* Set a fixed height */
+  overflow-y: auto;
+  /* Make content scrollable */
+}
+
+/* Responsive adjustments for Sales View */
+@media (max-width: 768px) {
+  #salesperson-view {
+    flex-direction: column;
+    /* Stack sections vertically on smaller screens */
+  }
+
+  #post-call-insights .grid,
+  #negotiation-coach .grid {
+    grid-template-columns: 1fr;
+    /* Single column layout on smaller screens */
+  }
+}
+
+/* Loading Spinner */
+#loading-spinner {
+  z-index: 1000;
+}
+
+#suggestions-result {
+  white-space: pre-line;
+  /* Preserve line breaks and spacing */
+  font-family: "Courier New", Courier, monospace;
+  /* Monospace font for better readability */
+  line-height: 1.6;
+  /* Improve line spacing */
+  padding: 10px;
+  background-color: #2d3748;
+  /* Darker background for contrast */
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+/* Welcome Message Styling */
+.fixed {
+  position: fixed;
+  z-index: 1000;
+}
+
+.transform {
+  transform: translateX(-50%);
+}
+
+.bg-gray-800 {
+  background-color: #2d3748;
+}
+
+.text-white {
+  color: #ffffff;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+
+.py-3 {
+  padding-top: 0.75rem;
+  padding-bottom: 0.75rem;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.shadow-lg {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.space-x-4 > * + * {
+  margin-left: 1rem;
+}
+
+.hover\:text-white:hover {
+  color: #ffffff;
+}
+
+/* Custom Notification Styling */
+.notification {
+  position: fixed;
+  top: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #2d3748;
+  /* Dark background */
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 1000;
+  animation: slideIn 0.5s ease-out;
+}
+
+.notification.fade-out {
+  animation: fadeOut 0.5s ease-out forwards;
+}
+
+@keyframes slideIn {
+  from {
+    top: -50px;
+    opacity: 0;
+  }
+
+  to {
+    top: 20px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadeOut {
+  from {
+    opacity: 1;
+  }
+
+  to {
+    opacity: 0;
+  }
+}

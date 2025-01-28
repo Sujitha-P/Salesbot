@@ -1,0 +1,598 @@
+ProductID,ProductCategory,ProductBrand,ProductName,ProductPrice,MinDiscount,MaxDiscount,Rating,Features,StockAvailability,WarrantyPeriod,Color
+SMA-AMA-7,Smartwatch,Amazfit,Amazfit Smartwatch Model-402,145213,8,50,4.4,"Waterproof, Fitness Tracking, Heart Rate Monitor",Out of Stock,1 Year,Blue
+SMA-FOS-6,Smartwatch,Fossil,Fossil Smartwatch Model-308,16912,10,35,3.8,"Customizable Watch Faces, Fitness Tracking, Waterproof",In Stock,2 Years,Red
+HEA-BOA-3,Headphones,Boat,Boat Headphones Model-606,102087,7,21,4.2,"Foldable, Wireless, Noise Cancellation",Out of Stock,2 Years,Red
+SMA-GAR-8,Smartwatch,Garmin,Garmin Smartwatch Model-816,145654,7,41,4.9,"Fitness Tracking, Customizable Watch Faces, Waterproof",In Stock,1 Year,Silver
+CAM-PAN-10,Camera,Panasonic,Panasonic Camera Model-243,78401,10,37,4.1,"Touchscreen, Image Stabilization, High ISO Sensitivity",In Stock,3 Years,Silver
+SMA-XIA-4,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-618,77799,12,30,3.6,"Fitness Tracking, Customizable Watch Faces, GPS",Out of Stock,2 Years,White
+SMA-FOS-8,Smartwatch,Fossil,Fossil Smartwatch Model-452,45697,13,46,3.6,"Customizable Watch Faces, Fitness Tracking, Waterproof",Out of Stock,3 Years,Blue
+LAP-ASU-10,Laptop,Asus,Asus Laptop Model-586,69615,7,41,4.3,"High-Performance GPU, SSD Storage, Lightweight",In Stock,1 Year,Red
+HEA-ANK-6,Headphones,Anker,Anker Headphones Model-219,11448,10,42,4.0,"Bass Boost, Foldable, Waterproof",In Stock,3 Years,Silver
+SMA-XIA-2,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-627,141226,20,45,3.6,"Waterproof, GPS, Heart Rate Monitor",In Stock,1 Year,White
+SMA-SAM-1,Smartphone,Samsung,Samsung Smartphone Model-109,11392,17,40,4.6,"Fast Charging, Water Resistant, AMOLED Display",In Stock,3 Years,Silver
+LAP-LEN-3,Laptop,Lenovo,Lenovo Laptop Model-922,81259,10,44,4.9,"Touchscreen, Backlit Keyboard, Lightweight",In Stock,2 Years,White
+LAP-LEN-4,Laptop,Lenovo,Lenovo Laptop Model-330,140799,12,42,5.0,"SSD Storage, Lightweight, High-Performance GPU",In Stock,2 Years,Silver
+TAB-LEN-7,Tablet,Lenovo,Lenovo Tablet Model-340,32731,16,36,3.4,"Detachable Keyboard, 10-inch Display, Stylus Support",Out of Stock,3 Years,Blue
+TAB-HUA-8,Tablet,Huawei,Huawei Tablet Model-198,115349,20,29,3.9,"Long Battery Life, 10-inch Display, Quad Speakers",In Stock,3 Years,Red
+SMA-VIV-6,Smartphone,Vivo,Vivo Smartphone Model-791,125941,14,48,4.6,"Water Resistant, 5G, AMOLED Display",In Stock,2 Years,Red
+HEA-SON-5,Headphones,Sony,Sony Headphones Model-814,72885,19,48,4.2,"Foldable, Bass Boost, Noise Cancellation",In Stock,3 Years,Blue
+SMA-GAR-10,Smartwatch,Garmin,Garmin Smartwatch Model-484,145114,8,47,3.7,"GPS, Customizable Watch Faces, Heart Rate Monitor",In Stock,1 Year,Red
+SMA-REA-2,Smartphone,Realme,Realme Smartphone Model-611,127808,18,26,4.2,"Water Resistant, 5G, AMOLED Display",Out of Stock,1 Year,Blue
+SMA-FIT-1,Smartwatch,Fitbit,Fitbit Smartwatch Model-159,143090,8,36,3.3,"Heart Rate Monitor, GPS, Fitness Tracking",In Stock,1 Year,White
+LAP-APP-8,Laptop,Apple,Apple Laptop Model-208,61054,7,31,4.8,"Touchscreen, High-Performance GPU, Lightweight",In Stock,1 Year,Red
+HEA-BEA-5,Headphones,Beats,Beats Headphones Model-304,57155,14,47,3.8,"Waterproof, Bass Boost, Noise Cancellation",Out of Stock,1 Year,White
+SMA-AMA-4,Smartwatch,Amazfit,Amazfit Smartwatch Model-542,19138,20,45,3.9,"Waterproof, GPS, Fitness Tracking",In Stock,2 Years,Red
+SMA-FIT-12,Smartwatch,Fitbit,Fitbit Smartwatch Model-481,108761,18,26,3.0,"GPS, Heart Rate Monitor, Waterproof",Out of Stock,3 Years,Silver
+HEA-SON-10,Headphones,Sony,Sony Headphones Model-314,138417,9,31,4.0,"Foldable, Waterproof, Wireless",Out of Stock,3 Years,White
+LAP-APP-13,Laptop,Apple,Apple Laptop Model-280,41621,11,43,3.9,"Touchscreen, Lightweight, High-Performance GPU",Out of Stock,2 Years,Red
+SMA-APP-4,Smartphone,Apple,Apple Smartphone Model-169,82862,17,39,4.9,"Dual SIM, AMOLED Display, 5G",In Stock,2 Years,Red
+HEA-BOA-11,Headphones,Boat,Boat Headphones Model-828,42057,10,33,3.4,"Bass Boost, Foldable, Noise Cancellation",In Stock,1 Year,Red
+SMA-OPP-3,Smartphone,Oppo,Oppo Smartphone Model-565,38045,11,43,4.5,"Fast Charging, AMOLED Display, 5G",In Stock,2 Years,Silver
+CAM-PAN-1,Camera,Panasonic,Panasonic Camera Model-392,119293,13,47,3.4,"Image Stabilization, High ISO Sensitivity, WiFi Connectivity",In Stock,3 Years,Silver
+HEA-SON-11,Headphones,Sony,Sony Headphones Model-348,63248,6,35,3.5,"Bass Boost, Foldable, Noise Cancellation",In Stock,3 Years,Silver
+LAP-DEL-8,Laptop,Dell,Dell Laptop Model-725,57671,11,29,3.3,"Touchscreen, Backlit Keyboard, Lightweight",In Stock,1 Year,White
+CAM-CAN-10,Camera,Canon,Canon Camera Model-231,92448,13,34,3.5,"WiFi Connectivity, Touchscreen, High ISO Sensitivity",In Stock,1 Year,Blue
+CAM-OLY-5,Camera,Olympus,Olympus Camera Model-379,39059,5,25,3.5,"WiFi Connectivity, Image Stabilization, High ISO Sensitivity",In Stock,2 Years,Black
+SMA-OPP-10,Smartphone,Oppo,Oppo Smartphone Model-825,59975,17,33,4.1,"AMOLED Display, Water Resistant, Dual SIM",In Stock,1 Year,White
+LAP-DEL-12,Laptop,Dell,Dell Laptop Model-782,123042,7,37,3.7,"SSD Storage, Lightweight, Touchscreen",In Stock,2 Years,Blue
+CAM-OLY-2,Camera,Olympus,Olympus Camera Model-356,88222,9,22,4.1,"4K Video, High ISO Sensitivity, WiFi Connectivity",Out of Stock,2 Years,White
+SMA-FIT-13,Smartwatch,Fitbit,Fitbit Smartwatch Model-844,147926,18,27,4.4,"Customizable Watch Faces, Heart Rate Monitor, Fitness Tracking",In Stock,3 Years,Black
+LAP-MSI-13,Laptop,MSI,MSI Laptop Model-497,138415,17,21,3.3,"High-Performance GPU, Lightweight, Touchscreen",Out of Stock,2 Years,Black
+SMA-HUA-1,Smartwatch,Huawei,Huawei Smartwatch Model-610,24098,8,45,4.7,"Heart Rate Monitor, Waterproof, GPS",In Stock,1 Year,Blue
+HEA-JBL-8,Headphones,JBL,JBL Headphones Model-727,74845,19,50,4.2,"Foldable, Waterproof, Noise Cancellation",In Stock,3 Years,Black
+CAM-SON-11,Camera,Sony,Sony Camera Model-788,80285,17,25,3.8,"Image Stabilization, 4K Video, High ISO Sensitivity",Out of Stock,3 Years,Red
+SMA-SAM-7,Smartphone,Samsung,Samsung Smartphone Model-756,8491,12,32,3.5,"AMOLED Display, 5G, Fast Charging",In Stock,2 Years,White
+TAB-HUA-1,Tablet,Huawei,Huawei Tablet Model-269,10856,14,48,3.0,"Long Battery Life, Detachable Keyboard, Quad Speakers",Out of Stock,3 Years,Red
+LAP-DEL-11,Laptop,Dell,Dell Laptop Model-250,113346,18,42,4.2,"SSD Storage, High-Performance GPU, Backlit Keyboard",In Stock,3 Years,White
+HEA-SKU-1,Headphones,Skullcandy,Skullcandy Headphones Model-601,20164,16,20,4.3,"Bass Boost, Noise Cancellation, Waterproof",In Stock,1 Year,Blue
+SMA-FOS-5,Smartwatch,Fossil,Fossil Smartwatch Model-387,97704,8,26,3.5,"GPS, Waterproof, Heart Rate Monitor",Out of Stock,3 Years,Black
+LAP-MIC-4,Laptop,Microsoft,Microsoft Laptop Model-286,96083,13,23,3.9,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,2 Years,Blue
+CAM-CAN-4,Camera,Canon,Canon Camera Model-213,95514,8,31,4.4,"Image Stabilization, High ISO Sensitivity, 4K Video",In Stock,3 Years,Black
+LAP-MSI-3,Laptop,MSI,MSI Laptop Model-298,8258,16,45,4.3,"Touchscreen, Backlit Keyboard, High-Performance GPU",Out of Stock,2 Years,Blue
+CAM-PAN-3,Camera,Panasonic,Panasonic Camera Model-997,141804,9,31,4.9,"Image Stabilization, WiFi Connectivity, Touchscreen",In Stock,2 Years,Red
+TAB-GOO-3,Tablet,Google,Google Tablet Model-192,80427,18,27,3.8,"Stylus Support, Long Battery Life, Detachable Keyboard",Out of Stock,2 Years,White
+CAM-PAN-6,Camera,Panasonic,Panasonic Camera Model-153,23739,11,35,4.1,"Touchscreen, High ISO Sensitivity, WiFi Connectivity",Out of Stock,3 Years,Silver
+TAB-AMA-5,Tablet,Amazon,Amazon Tablet Model-804,24618,8,32,4.0,"Quad Speakers, Stylus Support, Long Battery Life",In Stock,3 Years,Blue
+CAM-CAN-8,Camera,Canon,Canon Camera Model-131,45584,9,21,4.6,"WiFi Connectivity, 4K Video, High ISO Sensitivity",In Stock,1 Year,White
+SMA-OPP-9,Smartphone,Oppo,Oppo Smartphone Model-170,89182,10,31,3.7,"Water Resistant, AMOLED Display, Fast Charging",In Stock,2 Years,Red
+SMA-ONE-8,Smartphone,OnePlus,OnePlus Smartphone Model-393,59098,8,43,3.6,"5G, Water Resistant, AMOLED Display",Out of Stock,1 Year,Silver
+CAM-GOP-4,Camera,GoPro,GoPro Camera Model-848,85153,15,29,4.4,"Touchscreen, WiFi Connectivity, 4K Video",In Stock,1 Year,Blue
+CAM-SON-6,Camera,Sony,Sony Camera Model-622,67332,14,31,4.3,"High ISO Sensitivity, WiFi Connectivity, Image Stabilization",In Stock,3 Years,Silver
+LAP-DEL-3,Laptop,Dell,Dell Laptop Model-594,9799,20,33,4.8,"Touchscreen, High-Performance GPU, Lightweight",In Stock,2 Years,Silver
+TAB-AMA-7,Tablet,Amazon,Amazon Tablet Model-601,41652,17,22,4.5,"Long Battery Life, 10-inch Display, Stylus Support",In Stock,3 Years,White
+HEA-ANK-1,Headphones,Anker,Anker Headphones Model-120,97353,13,44,4.3,"Noise Cancellation, Waterproof, Foldable",Out of Stock,2 Years,Blue
+SMA-HUA-2,Smartwatch,Huawei,Huawei Smartwatch Model-828,10100,13,27,3.5,"Fitness Tracking, Waterproof, Customizable Watch Faces",In Stock,3 Years,Black
+CAM-CAN-3,Camera,Canon,Canon Camera Model-448,19413,15,36,4.7,"High ISO Sensitivity, Touchscreen, 4K Video",Out of Stock,3 Years,Black
+SMA-REA-3,Smartphone,Realme,Realme Smartphone Model-663,120177,10,35,4.3,"AMOLED Display, 5G, Fast Charging",In Stock,2 Years,Red
+SMA-APP-7,Smartphone,Apple,Apple Smartphone Model-724,9011,8,29,4.8,"AMOLED Display, Water Resistant, Dual SIM",In Stock,2 Years,Black
+CAM-PAN-8,Camera,Panasonic,Panasonic Camera Model-581,119493,16,41,4.2,"Touchscreen, WiFi Connectivity, 4K Video",Out of Stock,1 Year,Red
+SMA-APP-8,Smartphone,Apple,Apple Smartphone Model-308,108295,6,21,3.4,"Water Resistant, Fast Charging, 5G",Out of Stock,3 Years,Black
+HEA-JBL-6,Headphones,JBL,JBL Headphones Model-991,54509,8,25,4.3,"Bass Boost, Noise Cancellation, Foldable",In Stock,2 Years,Black
+HEA-BOS-13,Headphones,Bose,Bose Headphones Model-559,32328,14,29,4.6,"Bass Boost, Wireless, Foldable",Out of Stock,3 Years,Red
+SMA-HUA-9,Smartwatch,Huawei,Huawei Smartwatch Model-409,62472,19,23,5.0,"GPS, Customizable Watch Faces, Fitness Tracking",Out of Stock,2 Years,Black
+SMA-FOS-2,Smartwatch,Fossil,Fossil Smartwatch Model-358,28772,17,22,4.8,"Heart Rate Monitor, GPS, Customizable Watch Faces",Out of Stock,2 Years,Black
+SMA-GAR-1,Smartwatch,Garmin,Garmin Smartwatch Model-125,40541,10,31,3.8,"Waterproof, Fitness Tracking, GPS",Out of Stock,3 Years,Silver
+LAP-ACE-10,Laptop,Acer,Acer Laptop Model-586,145223,15,36,4.2,"SSD Storage, Lightweight, Touchscreen",In Stock,3 Years,Red
+LAP-ACE-4,Laptop,Acer,Acer Laptop Model-891,91650,13,27,3.9,"Backlit Keyboard, Touchscreen, High-Performance GPU",Out of Stock,1 Year,Silver
+SMA-REA-4,Smartphone,Realme,Realme Smartphone Model-494,105249,11,24,3.9,"Fast Charging, Water Resistant, AMOLED Display",Out of Stock,3 Years,Red
+TAB-SAM-3,Tablet,Samsung,Samsung Tablet Model-549,138572,20,45,5.0,"10-inch Display, Stylus Support, Long Battery Life",In Stock,3 Years,Black
+SMA-SAM-9,Smartwatch,Samsung,Samsung Smartwatch Model-207,134168,12,36,4.5,"Heart Rate Monitor, Fitness Tracking, Customizable Watch Faces",In Stock,2 Years,Silver
+LAP-DEL-4,Laptop,Dell,Dell Laptop Model-866,115866,11,33,4.1,"Backlit Keyboard, Touchscreen, Lightweight",Out of Stock,2 Years,Red
+HEA-SKU-5,Headphones,Skullcandy,Skullcandy Headphones Model-471,76795,10,42,4.1,"Foldable, Wireless, Waterproof",Out of Stock,1 Year,Black
+CAM-OLY-10,Camera,Olympus,Olympus Camera Model-828,6812,6,27,4.7,"WiFi Connectivity, Image Stabilization, High ISO Sensitivity",Out of Stock,3 Years,White
+SMA-REA-1,Smartphone,Realme,Realme Smartphone Model-425,90997,20,20,4.8,"5G, AMOLED Display, Water Resistant",Out of Stock,1 Year,Red
+LAP-DEL-2,Laptop,Dell,Dell Laptop Model-634,54053,7,30,3.7,"SSD Storage, Touchscreen, High-Performance GPU",In Stock,1 Year,Blue
+CAM-GOP-3,Camera,GoPro,GoPro Camera Model-447,75709,10,38,3.9,"Touchscreen, 4K Video, High ISO Sensitivity",In Stock,1 Year,Blue
+LAP-APP-11,Laptop,Apple,Apple Laptop Model-949,107773,6,45,4.7,"High-Performance GPU, Lightweight, Touchscreen",Out of Stock,3 Years,Silver
+HEA-SEN-8,Headphones,Sennheiser,Sennheiser Headphones Model-469,55827,19,25,4.4,"Foldable, Waterproof, Bass Boost",In Stock,1 Year,White
+CAM-SON-13,Camera,Sony,Sony Camera Model-770,21914,11,34,4.8,"High ISO Sensitivity, Image Stabilization, Touchscreen",Out of Stock,1 Year,White
+SMA-XIA-7,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-439,130134,11,27,3.8,"Fitness Tracking, Waterproof, Customizable Watch Faces",In Stock,1 Year,Black
+LAP-HP-8,Laptop,HP,HP Laptop Model-510,120783,15,28,4.8,"SSD Storage, Backlit Keyboard, Touchscreen",In Stock,1 Year,Silver
+HEA-SKU-8,Headphones,Skullcandy,Skullcandy Headphones Model-947,92680,10,49,4.2,"Foldable, Bass Boost, Noise Cancellation",Out of Stock,2 Years,Blue
+LAP-ASU-3,Laptop,Asus,Asus Laptop Model-533,43112,8,32,4.5,"Touchscreen, Backlit Keyboard, SSD Storage",Out of Stock,3 Years,Black
+CAM-FUJ-8,Camera,Fujifilm,Fujifilm Camera Model-372,139999,10,38,4.2,"Touchscreen, High ISO Sensitivity, Image Stabilization",Out of Stock,1 Year,Black
+HEA-BOA-13,Headphones,Boat,Boat Headphones Model-370,73802,18,45,3.6,"Foldable, Wireless, Waterproof",In Stock,3 Years,Black
+SMA-APP-11,Smartphone,Apple,Apple Smartphone Model-171,81729,9,24,4.3,"5G, Water Resistant, Dual SIM",Out of Stock,1 Year,Black
+LAP-MSI-2,Laptop,MSI,MSI Laptop Model-954,26933,10,44,4.7,"Touchscreen, Lightweight, High-Performance GPU",In Stock,1 Year,White
+TAB-APP-3,Tablet,Apple,Apple Tablet Model-369,33807,6,40,3.6,"Long Battery Life, Quad Speakers, Stylus Support",In Stock,2 Years,Red
+SMA-ONE-11,Smartphone,OnePlus,OnePlus Smartphone Model-161,8684,7,25,4.8,"5G, AMOLED Display, Fast Charging",Out of Stock,3 Years,Black
+CAM-PAN-11,Camera,Panasonic,Panasonic Camera Model-607,143775,9,22,3.3,"Touchscreen, WiFi Connectivity, Image Stabilization",In Stock,1 Year,Blue
+HEA-BOA-12,Headphones,Boat,Boat Headphones Model-570,32044,16,45,3.7,"Wireless, Waterproof, Noise Cancellation",In Stock,2 Years,Blue
+CAM-CAN-9,Camera,Canon,Canon Camera Model-134,31803,6,38,3.7,"4K Video, High ISO Sensitivity, Image Stabilization",In Stock,2 Years,White
+SMA-ONE-1,Smartphone,OnePlus,OnePlus Smartphone Model-549,59723,17,49,4.4,"AMOLED Display, Fast Charging, Dual SIM",In Stock,2 Years,White
+CAM-PAN-7,Camera,Panasonic,Panasonic Camera Model-103,104272,14,28,4.2,"Touchscreen, Image Stabilization, WiFi Connectivity",In Stock,1 Year,Blue
+SMA-ONE-9,Smartphone,OnePlus,OnePlus Smartphone Model-465,8900,18,49,3.7,"Fast Charging, 5G, AMOLED Display",Out of Stock,2 Years,Silver
+HEA-SKU-13,Headphones,Skullcandy,Skullcandy Headphones Model-203,81772,20,33,4.4,"Waterproof, Foldable, Noise Cancellation",In Stock,2 Years,Black
+LAP-MIC-2,Laptop,Microsoft,Microsoft Laptop Model-264,123550,12,26,4.1,"Touchscreen, High-Performance GPU, Backlit Keyboard",In Stock,3 Years,Red
+LAP-ACE-13,Laptop,Acer,Acer Laptop Model-259,36699,5,43,4.1,"High-Performance GPU, Backlit Keyboard, Lightweight",In Stock,3 Years,Blue
+SMA-OPP-11,Smartphone,Oppo,Oppo Smartphone Model-504,11349,6,25,4.3,"Dual SIM, AMOLED Display, 5G",Out of Stock,3 Years,Black
+HEA-SKU-6,Headphones,Skullcandy,Skullcandy Headphones Model-331,8250,13,27,4.1,"Noise Cancellation, Wireless, Foldable",Out of Stock,1 Year,Red
+SMA-APP-15,Smartphone,Apple,Apple Smartphone Model-359,89257,12,35,3.9,"Water Resistant, Fast Charging, AMOLED Display",Out of Stock,2 Years,Red
+SMA-HUA-7,Smartwatch,Huawei,Huawei Smartwatch Model-277,5205,20,47,4.4,"Customizable Watch Faces, Heart Rate Monitor, Fitness Tracking",In Stock,3 Years,Black
+HEA-SON-13,Headphones,Sony,Sony Headphones Model-236,82942,9,35,3.6,"Waterproof, Foldable, Bass Boost",Out of Stock,2 Years,Black
+TAB-AMA-11,Tablet,Amazon,Amazon Tablet Model-930,139466,18,38,4.0,"Stylus Support, 10-inch Display, Detachable Keyboard",In Stock,1 Year,Blue
+TAB-HUA-11,Tablet,Huawei,Huawei Tablet Model-122,116214,7,39,4.1,"10-inch Display, Stylus Support, Quad Speakers",In Stock,2 Years,Red
+CAM-LEI-1,Camera,Leica,Leica Camera Model-123,71450,11,45,4.2,"Touchscreen, WiFi Connectivity, 4K Video",Out of Stock,2 Years,Red
+HEA-ANK-13,Headphones,Anker,Anker Headphones Model-100,69557,9,20,3.1,"Bass Boost, Foldable, Wireless",Out of Stock,3 Years,Black
+SMA-APP-12,Smartphone,Apple,Apple Smartphone Model-480,102521,20,39,3.2,"Dual SIM, Fast Charging, AMOLED Display",In Stock,3 Years,White
+HEA-SEN-9,Headphones,Sennheiser,Sennheiser Headphones Model-969,121032,8,46,3.0,"Foldable, Wireless, Waterproof",In Stock,2 Years,White
+SMA-SAM-2,Smartphone,Samsung,Samsung Smartphone Model-233,121569,20,21,3.9,"Water Resistant, Dual SIM, 5G",In Stock,2 Years,Red
+TAB-HUA-9,Tablet,Huawei,Huawei Tablet Model-749,135961,8,34,4.7,"10-inch Display, Detachable Keyboard, Long Battery Life",In Stock,3 Years,White
+LAP-ASU-13,Laptop,Asus,Asus Laptop Model-590,109896,9,29,4.2,"SSD Storage, High-Performance GPU, Backlit Keyboard",Out of Stock,2 Years,Blue
+TAB-APP-10,Tablet,Apple,Apple Tablet Model-835,86739,11,49,4.6,"Quad Speakers, Detachable Keyboard, 10-inch Display",Out of Stock,1 Year,Silver
+SMA-FIT-14,Smartwatch,Fitbit,Fitbit Smartwatch Model-139,116048,11,41,3.3,"Fitness Tracking, Customizable Watch Faces, GPS",In Stock,3 Years,Black
+HEA-BEA-4,Headphones,Beats,Beats Headphones Model-114,80695,20,41,3.7,"Wireless, Foldable, Noise Cancellation",In Stock,2 Years,Red
+SMA-SAM-2,Smartwatch,Samsung,Samsung Smartwatch Model-246,102314,18,47,4.6,"Heart Rate Monitor, Waterproof, GPS",In Stock,2 Years,White
+TAB-HUA-10,Tablet,Huawei,Huawei Tablet Model-442,52796,16,36,4.2,"Stylus Support, 10-inch Display, Detachable Keyboard",Out of Stock,3 Years,Silver
+LAP-MSI-8,Laptop,MSI,MSI Laptop Model-946,131796,12,32,3.2,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,2 Years,Red
+LAP-MSI-5,Laptop,MSI,MSI Laptop Model-757,37759,16,47,3.7,"Backlit Keyboard, Touchscreen, Lightweight",In Stock,2 Years,Silver
+LAP-ASU-9,Laptop,Asus,Asus Laptop Model-899,16821,17,36,3.5,"SSD Storage, High-Performance GPU, Touchscreen",Out of Stock,2 Years,Blue
+HEA-BOS-1,Headphones,Bose,Bose Headphones Model-975,48150,19,45,3.1,"Waterproof, Foldable, Noise Cancellation",In Stock,3 Years,Blue
+CAM-NIK-4,Camera,Nikon,Nikon Camera Model-482,58914,19,43,3.7,"Image Stabilization, High ISO Sensitivity, Touchscreen",In Stock,1 Year,White
+SMA-XIA-14,Smartphone,Xiaomi,Xiaomi Smartphone Model-721,129921,15,24,4.8,"5G, AMOLED Display, Water Resistant",Out of Stock,3 Years,Blue
+TAB-LEN-3,Tablet,Lenovo,Lenovo Tablet Model-776,109168,13,24,3.4,"10-inch Display, Stylus Support, Detachable Keyboard",In Stock,2 Years,Red
+LAP-APP-7,Laptop,Apple,Apple Laptop Model-736,68683,5,21,4.3,"SSD Storage, High-Performance GPU, Touchscreen",Out of Stock,3 Years,Silver
+CAM-FUJ-3,Camera,Fujifilm,Fujifilm Camera Model-110,56837,10,26,3.2,"4K Video, Image Stabilization, WiFi Connectivity",In Stock,1 Year,Black
+SMA-ONE-6,Smartphone,OnePlus,OnePlus Smartphone Model-409,116972,10,29,4.1,"5G, Dual SIM, Water Resistant",Out of Stock,3 Years,Black
+HEA-SKU-3,Headphones,Skullcandy,Skullcandy Headphones Model-444,45802,20,48,4.3,"Waterproof, Foldable, Noise Cancellation",Out of Stock,1 Year,Black
+SMA-REA-7,Smartphone,Realme,Realme Smartphone Model-202,45481,20,38,3.8,"Water Resistant, Fast Charging, Dual SIM",In Stock,1 Year,White
+SMA-APP-4,Smartwatch,Apple,Apple Smartwatch Model-703,93223,14,46,4.6,"Customizable Watch Faces, Heart Rate Monitor, GPS",Out of Stock,2 Years,Blue
+CAM-OLY-9,Camera,Olympus,Olympus Camera Model-365,47413,19,38,3.1,"Touchscreen, 4K Video, Image Stabilization",In Stock,3 Years,Silver
+CAM-NIK-7,Camera,Nikon,Nikon Camera Model-344,59248,18,41,4.4,"Image Stabilization, Touchscreen, High ISO Sensitivity",Out of Stock,1 Year,Blue
+CAM-SON-2,Camera,Sony,Sony Camera Model-321,96024,19,33,4.3,"Image Stabilization, High ISO Sensitivity, WiFi Connectivity",Out of Stock,1 Year,Black
+SMA-APP-6,Smartwatch,Apple,Apple Smartwatch Model-212,125557,15,30,3.6,"Fitness Tracking, GPS, Customizable Watch Faces",In Stock,2 Years,Red
+SMA-SAM-13,Smartwatch,Samsung,Samsung Smartwatch Model-964,62107,16,23,3.8,"GPS, Heart Rate Monitor, Customizable Watch Faces",In Stock,3 Years,White
+SMA-APP-2,Smartwatch,Apple,Apple Smartwatch Model-225,23804,17,30,4.2,"GPS, Heart Rate Monitor, Fitness Tracking",In Stock,3 Years,Blue
+LAP-LEN-10,Laptop,Lenovo,Lenovo Laptop Model-454,30583,5,46,3.2,"SSD Storage, Touchscreen, Lightweight",Out of Stock,3 Years,White
+LAP-ACE-3,Laptop,Acer,Acer Laptop Model-704,62887,16,34,3.5,"SSD Storage, Touchscreen, High-Performance GPU",Out of Stock,3 Years,Red
+TAB-APP-8,Tablet,Apple,Apple Tablet Model-701,30155,18,30,4.6,"Long Battery Life, 10-inch Display, Stylus Support",In Stock,2 Years,Black
+TAB-APP-12,Tablet,Apple,Apple Tablet Model-777,85544,6,37,4.8,"Stylus Support, 10-inch Display, Long Battery Life",Out of Stock,2 Years,Black
+SMA-AMA-8,Smartwatch,Amazfit,Amazfit Smartwatch Model-376,67325,17,22,3.3,"GPS, Customizable Watch Faces, Fitness Tracking",In Stock,1 Year,White
+HEA-BOS-9,Headphones,Bose,Bose Headphones Model-934,57344,15,30,4.6,"Bass Boost, Waterproof, Foldable",In Stock,3 Years,Black
+LAP-MIC-11,Laptop,Microsoft,Microsoft Laptop Model-497,141568,14,20,3.2,"SSD Storage, Lightweight, Backlit Keyboard",Out of Stock,1 Year,Red
+SMA-AMA-10,Smartwatch,Amazfit,Amazfit Smartwatch Model-970,14515,7,36,4.6,"Fitness Tracking, Customizable Watch Faces, Heart Rate Monitor",Out of Stock,3 Years,Blue
+SMA-XIA-10,Smartphone,Xiaomi,Xiaomi Smartphone Model-942,77320,14,32,4.0,"AMOLED Display, Dual SIM, Water Resistant",Out of Stock,2 Years,Blue
+CAM-NIK-14,Camera,Nikon,Nikon Camera Model-901,26269,16,28,4.4,"Image Stabilization, Touchscreen, 4K Video",In Stock,2 Years,Blue
+SMA-OPP-1,Smartphone,Oppo,Oppo Smartphone Model-928,72771,15,42,3.2,"Dual SIM, Fast Charging, AMOLED Display",Out of Stock,3 Years,Blue
+LAP-ACE-12,Laptop,Acer,Acer Laptop Model-540,12961,14,26,3.9,"SSD Storage, High-Performance GPU, Lightweight",In Stock,3 Years,Silver
+CAM-OLY-8,Camera,Olympus,Olympus Camera Model-586,5023,18,20,4.8,"High ISO Sensitivity, WiFi Connectivity, 4K Video",Out of Stock,3 Years,Silver
+CAM-FUJ-5,Camera,Fujifilm,Fujifilm Camera Model-144,61557,19,41,3.8,"High ISO Sensitivity, Image Stabilization, Touchscreen",Out of Stock,2 Years,Blue
+LAP-ACE-14,Laptop,Acer,Acer Laptop Model-589,102204,20,43,4.8,"Touchscreen, SSD Storage, High-Performance GPU",Out of Stock,3 Years,Silver
+SMA-AMA-6,Smartwatch,Amazfit,Amazfit Smartwatch Model-914,131698,14,41,4.2,"Fitness Tracking, Heart Rate Monitor, Waterproof",Out of Stock,1 Year,Black
+SMA-SAM-3,Smartwatch,Samsung,Samsung Smartwatch Model-723,95031,17,45,3.1,"Heart Rate Monitor, Fitness Tracking, GPS",Out of Stock,1 Year,White
+HEA-BOA-2,Headphones,Boat,Boat Headphones Model-757,129843,16,46,4.5,"Noise Cancellation, Waterproof, Foldable",In Stock,3 Years,Red
+LAP-DEL-6,Laptop,Dell,Dell Laptop Model-312,25074,9,25,4.8,"Lightweight, Touchscreen, High-Performance GPU",Out of Stock,2 Years,Blue
+TAB-HUA-14,Tablet,Huawei,Huawei Tablet Model-764,54776,20,36,4.7,"10-inch Display, Detachable Keyboard, Stylus Support",In Stock,2 Years,Black
+TAB-GOO-5,Tablet,Google,Google Tablet Model-879,69554,10,36,4.4,"10-inch Display, Stylus Support, Detachable Keyboard",In Stock,2 Years,Blue
+SMA-GOO-3,Smartphone,Google,Google Smartphone Model-441,74587,15,39,4.6,"Fast Charging, Water Resistant, Dual SIM",In Stock,1 Year,Black
+LAP-ACE-2,Laptop,Acer,Acer Laptop Model-192,17034,11,49,4.3,"Lightweight, High-Performance GPU, Touchscreen",Out of Stock,1 Year,Black
+LAP-LEN-13,Laptop,Lenovo,Lenovo Laptop Model-886,61383,12,35,4.7,"Lightweight, High-Performance GPU, Touchscreen",Out of Stock,2 Years,Black
+HEA-SKU-14,Headphones,Skullcandy,Skullcandy Headphones Model-405,92394,14,22,4.5,"Noise Cancellation, Bass Boost, Waterproof",Out of Stock,2 Years,Black
+TAB-MIC-8,Tablet,Microsoft,Microsoft Tablet Model-700,148305,17,33,3.4,"Long Battery Life, Quad Speakers, Detachable Keyboard",In Stock,2 Years,Black
+TAB-AMA-13,Tablet,Amazon,Amazon Tablet Model-277,117339,9,38,4.4,"Quad Speakers, 10-inch Display, Detachable Keyboard",In Stock,3 Years,Blue
+SMA-REA-6,Smartphone,Realme,Realme Smartphone Model-233,82298,6,29,4.4,"Dual SIM, Water Resistant, Fast Charging",In Stock,2 Years,Blue
+HEA-BOS-7,Headphones,Bose,Bose Headphones Model-342,121033,15,31,4.2,"Bass Boost, Waterproof, Wireless",In Stock,3 Years,Black
+TAB-AMA-10,Tablet,Amazon,Amazon Tablet Model-336,32753,10,36,3.7,"Long Battery Life, 10-inch Display, Stylus Support",Out of Stock,3 Years,Red
+SMA-FOS-14,Smartwatch,Fossil,Fossil Smartwatch Model-902,137555,8,27,3.7,"GPS, Fitness Tracking, Customizable Watch Faces",In Stock,3 Years,Red
+CAM-CAN-11,Camera,Canon,Canon Camera Model-959,70636,8,33,3.8,"Image Stabilization, 4K Video, Touchscreen",In Stock,1 Year,Black
+LAP-MSI-1,Laptop,MSI,MSI Laptop Model-965,124871,19,22,4.3,"Backlit Keyboard, Touchscreen, SSD Storage",In Stock,3 Years,Black
+TAB-APP-6,Tablet,Apple,Apple Tablet Model-285,55893,7,29,5.0,"Quad Speakers, Detachable Keyboard, 10-inch Display",In Stock,2 Years,Silver
+CAM-GOP-5,Camera,GoPro,GoPro Camera Model-605,129451,11,39,4.5,"Touchscreen, High ISO Sensitivity, WiFi Connectivity",In Stock,1 Year,Blue
+SMA-ONE-13,Smartphone,OnePlus,OnePlus Smartphone Model-577,41185,10,25,4.2,"Dual SIM, Fast Charging, AMOLED Display",In Stock,3 Years,Red
+SMA-SAM-9,Smartphone,Samsung,Samsung Smartphone Model-314,61505,7,49,4.6,"5G, Water Resistant, Fast Charging",Out of Stock,1 Year,White
+SMA-AMA-1,Smartwatch,Amazfit,Amazfit Smartwatch Model-628,130116,6,37,4.3,"GPS, Customizable Watch Faces, Waterproof",In Stock,3 Years,Red
+SMA-FIT-4,Smartwatch,Fitbit,Fitbit Smartwatch Model-923,14017,12,29,3.2,"Fitness Tracking, Customizable Watch Faces, Waterproof",Out of Stock,1 Year,Black
+SMA-HUA-8,Smartwatch,Huawei,Huawei Smartwatch Model-361,149707,20,39,3.5,"Heart Rate Monitor, Fitness Tracking, Customizable Watch Faces",Out of Stock,2 Years,Silver
+CAM-LEI-5,Camera,Leica,Leica Camera Model-534,65258,18,38,5.0,"High ISO Sensitivity, 4K Video, Image Stabilization",In Stock,3 Years,Silver
+SMA-HUA-6,Smartwatch,Huawei,Huawei Smartwatch Model-440,36183,8,26,3.9,"Customizable Watch Faces, GPS, Heart Rate Monitor",In Stock,2 Years,Silver
+HEA-BEA-3,Headphones,Beats,Beats Headphones Model-241,139233,10,30,4.7,"Bass Boost, Noise Cancellation, Waterproof",Out of Stock,2 Years,White
+HEA-SON-4,Headphones,Sony,Sony Headphones Model-486,25926,17,41,4.6,"Waterproof, Wireless, Foldable",In Stock,3 Years,Red
+SMA-ONE-2,Smartphone,OnePlus,OnePlus Smartphone Model-535,68716,9,50,5.0,"AMOLED Display, Dual SIM, Water Resistant",In Stock,2 Years,Red
+SMA-XIA-6,Smartphone,Xiaomi,Xiaomi Smartphone Model-837,16372,11,28,3.5,"Dual SIM, Water Resistant, Fast Charging",Out of Stock,1 Year,Blue
+HEA-SEN-2,Headphones,Sennheiser,Sennheiser Headphones Model-136,9257,7,44,3.2,"Bass Boost, Wireless, Foldable",Out of Stock,1 Year,Silver
+TAB-GOO-2,Tablet,Google,Google Tablet Model-814,138529,11,24,3.8,"10-inch Display, Long Battery Life, Detachable Keyboard",Out of Stock,2 Years,Black
+SMA-GOO-5,Smartphone,Google,Google Smartphone Model-322,120817,13,28,4.5,"Dual SIM, AMOLED Display, Water Resistant",Out of Stock,2 Years,White
+TAB-APP-5,Tablet,Apple,Apple Tablet Model-640,79157,11,41,3.5,"Long Battery Life, Detachable Keyboard, 10-inch Display",Out of Stock,1 Year,Red
+HEA-BEA-6,Headphones,Beats,Beats Headphones Model-477,139420,17,37,3.9,"Bass Boost, Wireless, Waterproof",In Stock,2 Years,Red
+LAP-HP-10,Laptop,HP,HP Laptop Model-121,53777,6,36,4.1,"Touchscreen, SSD Storage, High-Performance GPU",Out of Stock,3 Years,Blue
+HEA-ANK-10,Headphones,Anker,Anker Headphones Model-240,79713,9,38,4.9,"Waterproof, Wireless, Bass Boost",In Stock,3 Years,Black
+SMA-FOS-12,Smartwatch,Fossil,Fossil Smartwatch Model-939,40966,10,26,3.2,"Waterproof, Customizable Watch Faces, GPS",In Stock,3 Years,White
+HEA-BEA-1,Headphones,Beats,Beats Headphones Model-450,92967,13,23,4.6,"Waterproof, Wireless, Foldable",Out of Stock,1 Year,Black
+SMA-APP-3,Smartwatch,Apple,Apple Smartwatch Model-826,60461,17,38,4.4,"Waterproof, GPS, Fitness Tracking",Out of Stock,2 Years,Blue
+CAM-PAN-5,Camera,Panasonic,Panasonic Camera Model-333,108858,9,28,4.1,"WiFi Connectivity, Touchscreen, High ISO Sensitivity",Out of Stock,3 Years,Blue
+SMA-XIA-12,Smartphone,Xiaomi,Xiaomi Smartphone Model-400,95300,6,21,4.5,"AMOLED Display, Dual SIM, Fast Charging",Out of Stock,2 Years,Red
+CAM-GOP-6,Camera,GoPro,GoPro Camera Model-368,37131,11,27,3.4,"High ISO Sensitivity, Touchscreen, WiFi Connectivity",In Stock,2 Years,Red
+LAP-LEN-14,Laptop,Lenovo,Lenovo Laptop Model-650,67874,11,40,3.8,"Backlit Keyboard, SSD Storage, High-Performance GPU",In Stock,2 Years,Blue
+SMA-GOO-10,Smartphone,Google,Google Smartphone Model-486,53274,16,42,3.9,"Dual SIM, Water Resistant, Fast Charging",In Stock,2 Years,Silver
+HEA-JBL-11,Headphones,JBL,JBL Headphones Model-355,21656,19,34,5.0,"Wireless, Foldable, Waterproof",In Stock,2 Years,Silver
+TAB-LEN-6,Tablet,Lenovo,Lenovo Tablet Model-797,107745,8,41,3.7,"Quad Speakers, 10-inch Display, Stylus Support",In Stock,3 Years,Blue
+SMA-XIA-8,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-550,78389,16,48,3.4,"Fitness Tracking, Waterproof, GPS",Out of Stock,2 Years,Blue
+LAP-MSI-4,Laptop,MSI,MSI Laptop Model-926,105680,12,20,4.8,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,1 Year,Red
+CAM-NIK-5,Camera,Nikon,Nikon Camera Model-514,89702,20,42,5.0,"WiFi Connectivity, 4K Video, High ISO Sensitivity",Out of Stock,3 Years,Blue
+CAM-CAN-2,Camera,Canon,Canon Camera Model-408,41140,5,42,3.9,"WiFi Connectivity, 4K Video, Image Stabilization",Out of Stock,2 Years,Blue
+CAM-OLY-7,Camera,Olympus,Olympus Camera Model-470,49976,17,47,4.9,"High ISO Sensitivity, WiFi Connectivity, Image Stabilization",In Stock,1 Year,Blue
+SMA-APP-10,Smartphone,Apple,Apple Smartphone Model-697,132241,17,21,3.7,"AMOLED Display, 5G, Dual SIM",In Stock,2 Years,Blue
+TAB-HUA-2,Tablet,Huawei,Huawei Tablet Model-957,124630,19,25,3.3,"10-inch Display, Stylus Support, Quad Speakers",In Stock,3 Years,Black
+CAM-NIK-10,Camera,Nikon,Nikon Camera Model-324,87735,14,30,4.9,"High ISO Sensitivity, Touchscreen, Image Stabilization",In Stock,1 Year,Red
+SMA-SAM-10,Smartwatch,Samsung,Samsung Smartwatch Model-690,108582,15,24,3.4,"GPS, Customizable Watch Faces, Fitness Tracking",In Stock,1 Year,White
+SMA-APP-8,Smartwatch,Apple,Apple Smartwatch Model-756,86647,11,50,4.5,"Fitness Tracking, Heart Rate Monitor, Customizable Watch Faces",Out of Stock,2 Years,Black
+SMA-VIV-1,Smartphone,Vivo,Vivo Smartphone Model-432,84359,12,26,3.9,"Water Resistant, Fast Charging, 5G",Out of Stock,1 Year,White
+CAM-GOP-1,Camera,GoPro,GoPro Camera Model-755,97908,14,50,4.6,"4K Video, Image Stabilization, WiFi Connectivity",Out of Stock,3 Years,Black
+SMA-AMA-9,Smartwatch,Amazfit,Amazfit Smartwatch Model-914,70825,5,20,4.7,"Fitness Tracking, Customizable Watch Faces, Heart Rate Monitor",In Stock,1 Year,Black
+SMA-GOO-1,Smartphone,Google,Google Smartphone Model-346,94300,7,50,3.9,"Dual SIM, AMOLED Display, 5G",In Stock,1 Year,White
+LAP-DEL-1,Laptop,Dell,Dell Laptop Model-336,140577,14,29,4.0,"Touchscreen, Backlit Keyboard, High-Performance GPU",In Stock,1 Year,White
+LAP-ACE-6,Laptop,Acer,Acer Laptop Model-811,23583,7,32,4.2,"Touchscreen, Lightweight, SSD Storage",Out of Stock,1 Year,Black
+CAM-FUJ-4,Camera,Fujifilm,Fujifilm Camera Model-709,115214,15,48,4.9,"WiFi Connectivity, Touchscreen, 4K Video",Out of Stock,2 Years,Black
+CAM-LEI-10,Camera,Leica,Leica Camera Model-885,6118,20,33,3.9,"High ISO Sensitivity, Image Stabilization, Touchscreen",Out of Stock,3 Years,Blue
+LAP-APP-9,Laptop,Apple,Apple Laptop Model-443,102539,6,28,3.8,"Touchscreen, High-Performance GPU, SSD Storage",Out of Stock,2 Years,Black
+HEA-SON-9,Headphones,Sony,Sony Headphones Model-394,71177,9,40,3.7,"Noise Cancellation, Bass Boost, Foldable",Out of Stock,3 Years,Blue
+SMA-GOO-2,Smartphone,Google,Google Smartphone Model-707,17048,7,38,3.6,"5G, AMOLED Display, Dual SIM",In Stock,2 Years,Blue
+LAP-MSI-6,Laptop,MSI,MSI Laptop Model-819,110485,13,48,4.1,"High-Performance GPU, Touchscreen, Backlit Keyboard",In Stock,1 Year,Black
+TAB-SAM-14,Tablet,Samsung,Samsung Tablet Model-501,36082,18,22,4.2,"Stylus Support, Long Battery Life, 10-inch Display",In Stock,1 Year,Silver
+LAP-LEN-12,Laptop,Lenovo,Lenovo Laptop Model-127,14522,12,25,3.5,"High-Performance GPU, Backlit Keyboard, Touchscreen",In Stock,2 Years,Black
+CAM-SON-5,Camera,Sony,Sony Camera Model-629,23222,5,23,3.7,"4K Video, Image Stabilization, High ISO Sensitivity",Out of Stock,3 Years,Red
+LAP-LEN-5,Laptop,Lenovo,Lenovo Laptop Model-150,50428,7,38,4.5,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,2 Years,Silver
+SMA-VIV-12,Smartphone,Vivo,Vivo Smartphone Model-613,46613,5,47,3.5,"Dual SIM, 5G, Fast Charging",In Stock,2 Years,Black
+CAM-LEI-4,Camera,Leica,Leica Camera Model-532,56323,7,44,3.4,"Touchscreen, Image Stabilization, High ISO Sensitivity",In Stock,1 Year,Black
+HEA-SON-3,Headphones,Sony,Sony Headphones Model-900,32197,11,20,3.6,"Waterproof, Bass Boost, Foldable",In Stock,1 Year,Black
+TAB-SAM-13,Tablet,Samsung,Samsung Tablet Model-871,68327,10,36,3.3,"Long Battery Life, Detachable Keyboard, 10-inch Display",In Stock,2 Years,Black
+CAM-FUJ-9,Camera,Fujifilm,Fujifilm Camera Model-444,82172,14,30,4.1,"Image Stabilization, Touchscreen, High ISO Sensitivity",In Stock,1 Year,Black
+SMA-HUA-3,Smartwatch,Huawei,Huawei Smartwatch Model-798,108431,14,37,4.6,"Customizable Watch Faces, Waterproof, GPS",Out of Stock,3 Years,Black
+LAP-ACE-9,Laptop,Acer,Acer Laptop Model-753,21741,15,30,4.9,"Lightweight, Touchscreen, Backlit Keyboard",In Stock,1 Year,Black
+SMA-VIV-5,Smartphone,Vivo,Vivo Smartphone Model-895,117498,16,28,4.2,"Water Resistant, 5G, Fast Charging",In Stock,3 Years,Silver
+TAB-LEN-8,Tablet,Lenovo,Lenovo Tablet Model-425,53647,20,49,3.6,"10-inch Display, Long Battery Life, Detachable Keyboard",In Stock,1 Year,Red
+CAM-PAN-4,Camera,Panasonic,Panasonic Camera Model-202,74968,14,34,5.0,"Image Stabilization, Touchscreen, High ISO Sensitivity",In Stock,2 Years,Silver
+HEA-BOS-4,Headphones,Bose,Bose Headphones Model-925,86409,6,24,4.9,"Bass Boost, Waterproof, Foldable",Out of Stock,3 Years,Blue
+HEA-BOA-7,Headphones,Boat,Boat Headphones Model-195,133849,9,25,4.0,"Wireless, Waterproof, Bass Boost",Out of Stock,3 Years,White
+LAP-HP-6,Laptop,HP,HP Laptop Model-723,78956,12,37,3.8,"Touchscreen, Backlit Keyboard, High-Performance GPU",In Stock,2 Years,Silver
+SMA-FOS-3,Smartwatch,Fossil,Fossil Smartwatch Model-999,32996,16,27,3.3,"Heart Rate Monitor, GPS, Fitness Tracking",Out of Stock,1 Year,Black
+CAM-SON-12,Camera,Sony,Sony Camera Model-744,19279,19,20,3.5,"Image Stabilization, Touchscreen, High ISO Sensitivity",Out of Stock,3 Years,Blue
+TAB-APP-14,Tablet,Apple,Apple Tablet Model-812,74857,8,41,3.5,"Stylus Support, Long Battery Life, 10-inch Display",Out of Stock,2 Years,Silver
+SMA-SAM-5,Smartwatch,Samsung,Samsung Smartwatch Model-906,58494,20,29,3.9,"Customizable Watch Faces, Fitness Tracking, GPS",Out of Stock,1 Year,Black
+SMA-REA-10,Smartphone,Realme,Realme Smartphone Model-257,18376,15,39,4.2,"AMOLED Display, Water Resistant, 5G",Out of Stock,3 Years,White
+HEA-BEA-10,Headphones,Beats,Beats Headphones Model-496,34543,8,42,4.8,"Foldable, Noise Cancellation, Wireless",Out of Stock,2 Years,Silver
+SMA-XIA-4,Smartphone,Xiaomi,Xiaomi Smartphone Model-464,85163,9,34,4.3,"Fast Charging, Water Resistant, AMOLED Display",Out of Stock,1 Year,White
+CAM-LEI-2,Camera,Leica,Leica Camera Model-749,122645,5,33,4.4,"Image Stabilization, 4K Video, High ISO Sensitivity",Out of Stock,2 Years,Black
+LAP-APP-1,Laptop,Apple,Apple Laptop Model-202,35350,17,22,4.3,"Lightweight, Backlit Keyboard, SSD Storage",Out of Stock,1 Year,Red
+LAP-MIC-12,Laptop,Microsoft,Microsoft Laptop Model-385,130031,10,50,4.8,"High-Performance GPU, Lightweight, Backlit Keyboard",In Stock,2 Years,Blue
+CAM-CAN-1,Camera,Canon,Canon Camera Model-520,32605,16,32,3.6,"Image Stabilization, High ISO Sensitivity, 4K Video",In Stock,3 Years,Blue
+TAB-HUA-7,Tablet,Huawei,Huawei Tablet Model-264,115470,5,26,3.1,"10-inch Display, Detachable Keyboard, Quad Speakers",In Stock,1 Year,Silver
+HEA-ANK-9,Headphones,Anker,Anker Headphones Model-762,112762,16,29,3.7,"Noise Cancellation, Wireless, Bass Boost",Out of Stock,3 Years,Silver
+CAM-LEI-9,Camera,Leica,Leica Camera Model-581,73614,5,44,5.0,"WiFi Connectivity, 4K Video, Image Stabilization",Out of Stock,2 Years,Blue
+SMA-APP-14,Smartphone,Apple,Apple Smartphone Model-219,49089,13,48,4.4,"Dual SIM, Fast Charging, Water Resistant",Out of Stock,2 Years,White
+HEA-JBL-1,Headphones,JBL,JBL Headphones Model-869,8069,13,44,4.8,"Wireless, Noise Cancellation, Foldable",Out of Stock,1 Year,White
+CAM-SON-8,Camera,Sony,Sony Camera Model-796,51713,20,25,4.2,"WiFi Connectivity, Touchscreen, Image Stabilization",In Stock,2 Years,White
+HEA-JBL-7,Headphones,JBL,JBL Headphones Model-687,86255,17,35,4.0,"Noise Cancellation, Foldable, Bass Boost",Out of Stock,2 Years,Red
+LAP-ASU-2,Laptop,Asus,Asus Laptop Model-642,55743,19,39,4.9,"Backlit Keyboard, Lightweight, SSD Storage",In Stock,2 Years,Red
+TAB-LEN-5,Tablet,Lenovo,Lenovo Tablet Model-219,66892,7,34,3.8,"Detachable Keyboard, Quad Speakers, Long Battery Life",Out of Stock,2 Years,Blue
+TAB-APP-11,Tablet,Apple,Apple Tablet Model-848,32555,13,27,3.8,"10-inch Display, Quad Speakers, Long Battery Life",In Stock,1 Year,Blue
+SMA-FIT-3,Smartwatch,Fitbit,Fitbit Smartwatch Model-147,103903,11,22,4.9,"Waterproof, Fitness Tracking, Heart Rate Monitor",In Stock,3 Years,White
+LAP-DEL-10,Laptop,Dell,Dell Laptop Model-851,68887,10,40,4.4,"Touchscreen, Lightweight, Backlit Keyboard",In Stock,1 Year,Blue
+LAP-MSI-14,Laptop,MSI,MSI Laptop Model-338,130841,18,40,4.6,"Touchscreen, High-Performance GPU, Backlit Keyboard",Out of Stock,1 Year,White
+HEA-SEN-11,Headphones,Sennheiser,Sennheiser Headphones Model-233,32978,18,22,5.0,"Foldable, Noise Cancellation, Wireless",In Stock,3 Years,Black
+SMA-ONE-7,Smartphone,OnePlus,OnePlus Smartphone Model-123,129909,14,25,4.2,"Dual SIM, Fast Charging, AMOLED Display",In Stock,3 Years,Blue
+SMA-FIT-5,Smartwatch,Fitbit,Fitbit Smartwatch Model-238,43873,10,22,3.1,"GPS, Fitness Tracking, Waterproof",In Stock,3 Years,Black
+CAM-GOP-9,Camera,GoPro,GoPro Camera Model-199,87511,16,29,4.9,"Touchscreen, 4K Video, Image Stabilization",In Stock,1 Year,White
+HEA-ANK-8,Headphones,Anker,Anker Headphones Model-589,69844,6,46,3.1,"Wireless, Waterproof, Foldable",Out of Stock,1 Year,Red
+SMA-HUA-13,Smartwatch,Huawei,Huawei Smartwatch Model-151,77403,9,47,3.3,"Customizable Watch Faces, Waterproof, Heart Rate Monitor",In Stock,1 Year,White
+HEA-BOS-3,Headphones,Bose,Bose Headphones Model-764,22866,17,45,4.7,"Waterproof, Wireless, Noise Cancellation",In Stock,3 Years,Silver
+SMA-XIA-11,Smartphone,Xiaomi,Xiaomi Smartphone Model-671,121614,9,20,4.3,"5G, Fast Charging, Dual SIM",In Stock,2 Years,Black
+LAP-MIC-7,Laptop,Microsoft,Microsoft Laptop Model-864,59613,14,24,4.6,"Backlit Keyboard, Lightweight, SSD Storage",Out of Stock,2 Years,Silver
+LAP-ASU-7,Laptop,Asus,Asus Laptop Model-752,76809,5,22,4.9,"Backlit Keyboard, Touchscreen, Lightweight",In Stock,1 Year,Blue
+SMA-GAR-3,Smartwatch,Garmin,Garmin Smartwatch Model-625,13074,19,31,4.2,"GPS, Heart Rate Monitor, Customizable Watch Faces",In Stock,1 Year,Blue
+CAM-PAN-9,Camera,Panasonic,Panasonic Camera Model-850,34966,12,33,4.4,"Touchscreen, Image Stabilization, 4K Video",In Stock,2 Years,Red
+LAP-HP-2,Laptop,HP,HP Laptop Model-800,28619,14,22,4.4,"Touchscreen, SSD Storage, High-Performance GPU",Out of Stock,2 Years,Black
+TAB-AMA-3,Tablet,Amazon,Amazon Tablet Model-355,117011,10,21,4.7,"Detachable Keyboard, 10-inch Display, Quad Speakers",Out of Stock,3 Years,Blue
+SMA-SAM-1,Smartwatch,Samsung,Samsung Smartwatch Model-840,57756,14,40,4.5,"Fitness Tracking, Heart Rate Monitor, Waterproof",Out of Stock,1 Year,White
+SMA-XIA-5,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-970,107690,9,38,4.1,"Fitness Tracking, GPS, Waterproof",In Stock,1 Year,Black
+SMA-VIV-2,Smartphone,Vivo,Vivo Smartphone Model-492,114276,11,23,5.0,"5G, AMOLED Display, Fast Charging",Out of Stock,2 Years,Black
+SMA-APP-1,Smartwatch,Apple,Apple Smartwatch Model-126,86548,17,27,4.5,"Customizable Watch Faces, Heart Rate Monitor, Waterproof",Out of Stock,3 Years,Black
+TAB-HUA-13,Tablet,Huawei,Huawei Tablet Model-940,99666,6,30,3.7,"Detachable Keyboard, Long Battery Life, Stylus Support",Out of Stock,2 Years,Red
+TAB-MIC-13,Tablet,Microsoft,Microsoft Tablet Model-975,5457,6,21,3.3,"Long Battery Life, Stylus Support, Detachable Keyboard",Out of Stock,3 Years,White
+HEA-BOA-6,Headphones,Boat,Boat Headphones Model-670,97269,17,28,3.5,"Waterproof, Noise Cancellation, Wireless",In Stock,2 Years,Silver
+SMA-APP-13,Smartphone,Apple,Apple Smartphone Model-189,114752,6,45,3.9,"5G, Dual SIM, Fast Charging",In Stock,3 Years,Blue
+TAB-MIC-9,Tablet,Microsoft,Microsoft Tablet Model-950,9649,9,23,4.5,"Detachable Keyboard, 10-inch Display, Stylus Support",In Stock,2 Years,Silver
+SMA-OPP-4,Smartphone,Oppo,Oppo Smartphone Model-767,43791,17,34,4.1,"Water Resistant, Fast Charging, AMOLED Display",In Stock,1 Year,Silver
+SMA-APP-5,Smartwatch,Apple,Apple Smartwatch Model-510,130227,11,31,4.8,"Customizable Watch Faces, Fitness Tracking, Heart Rate Monitor",Out of Stock,2 Years,Red
+SMA-VIV-11,Smartphone,Vivo,Vivo Smartphone Model-510,115095,18,43,3.1,"AMOLED Display, Dual SIM, 5G",Out of Stock,2 Years,Silver
+CAM-GOP-11,Camera,GoPro,GoPro Camera Model-727,28923,7,40,3.6,"4K Video, Touchscreen, High ISO Sensitivity",Out of Stock,1 Year,Red
+HEA-BEA-12,Headphones,Beats,Beats Headphones Model-894,80537,16,45,3.1,"Waterproof, Foldable, Bass Boost",Out of Stock,3 Years,White
+HEA-BOS-5,Headphones,Bose,Bose Headphones Model-275,86656,8,21,3.8,"Noise Cancellation, Wireless, Foldable",In Stock,1 Year,White
+TAB-MIC-14,Tablet,Microsoft,Microsoft Tablet Model-248,73479,10,28,4.8,"Long Battery Life, Detachable Keyboard, Stylus Support",Out of Stock,1 Year,Red
+SMA-XIA-5,Smartphone,Xiaomi,Xiaomi Smartphone Model-355,36609,18,31,4.5,"Water Resistant, Dual SIM, 5G",Out of Stock,2 Years,Black
+TAB-SAM-12,Tablet,Samsung,Samsung Tablet Model-277,48268,6,35,4.9,"10-inch Display, Stylus Support, Quad Speakers",In Stock,3 Years,Blue
+SMA-XIA-13,Smartphone,Xiaomi,Xiaomi Smartphone Model-180,61974,19,47,3.9,"5G, AMOLED Display, Dual SIM",In Stock,3 Years,Black
+LAP-ACE-15,Laptop,Acer,Acer Laptop Model-188,132335,7,44,4.2,"Backlit Keyboard, Touchscreen, Lightweight",Out of Stock,3 Years,Black
+CAM-FUJ-11,Camera,Fujifilm,Fujifilm Camera Model-858,54842,6,49,4.7,"High ISO Sensitivity, Image Stabilization, WiFi Connectivity",In Stock,3 Years,Silver
+SMA-HUA-12,Smartwatch,Huawei,Huawei Smartwatch Model-259,61579,6,33,4.8,"Customizable Watch Faces, Fitness Tracking, Heart Rate Monitor",In Stock,1 Year,Black
+HEA-SON-2,Headphones,Sony,Sony Headphones Model-920,72757,20,32,3.1,"Bass Boost, Noise Cancellation, Foldable",Out of Stock,2 Years,Blue
+HEA-SKU-7,Headphones,Skullcandy,Skullcandy Headphones Model-730,38054,18,36,3.6,"Waterproof, Noise Cancellation, Foldable",In Stock,2 Years,White
+SMA-SAM-8,Smartwatch,Samsung,Samsung Smartwatch Model-586,135298,16,40,3.7,"Customizable Watch Faces, GPS, Fitness Tracking",In Stock,2 Years,Blue
+TAB-SAM-15,Tablet,Samsung,Samsung Tablet Model-274,48852,13,50,3.1,"Long Battery Life, Stylus Support, Quad Speakers",Out of Stock,1 Year,White
+SMA-HUA-11,Smartwatch,Huawei,Huawei Smartwatch Model-242,55303,15,45,3.0,"Customizable Watch Faces, Waterproof, Fitness Tracking",Out of Stock,2 Years,Silver
+TAB-AMA-12,Tablet,Amazon,Amazon Tablet Model-245,9932,16,26,4.4,"Stylus Support, Quad Speakers, 10-inch Display",Out of Stock,2 Years,Black
+CAM-CAN-5,Camera,Canon,Canon Camera Model-498,75425,13,47,3.2,"4K Video, High ISO Sensitivity, Touchscreen",Out of Stock,2 Years,Black
+TAB-MIC-12,Tablet,Microsoft,Microsoft Tablet Model-349,71521,13,36,4.1,"Quad Speakers, Detachable Keyboard, Long Battery Life",In Stock,1 Year,Silver
+SMA-GAR-4,Smartwatch,Garmin,Garmin Smartwatch Model-450,101525,12,32,3.8,"GPS, Customizable Watch Faces, Waterproof",Out of Stock,3 Years,Black
+TAB-HUA-5,Tablet,Huawei,Huawei Tablet Model-999,58262,13,43,3.7,"Quad Speakers, 10-inch Display, Stylus Support",Out of Stock,2 Years,Red
+LAP-ACE-5,Laptop,Acer,Acer Laptop Model-697,20536,19,46,4.5,"Touchscreen, High-Performance GPU, Lightweight",Out of Stock,2 Years,Black
+TAB-MIC-7,Tablet,Microsoft,Microsoft Tablet Model-919,25698,12,32,5.0,"Detachable Keyboard, Long Battery Life, Stylus Support",In Stock,3 Years,Red
+SMA-HUA-5,Smartwatch,Huawei,Huawei Smartwatch Model-207,55854,14,31,3.7,"GPS, Fitness Tracking, Heart Rate Monitor",In Stock,3 Years,Silver
+SMA-GOO-9,Smartphone,Google,Google Smartphone Model-506,137373,20,23,4.9,"Fast Charging, Water Resistant, AMOLED Display",In Stock,1 Year,Red
+TAB-HUA-4,Tablet,Huawei,Huawei Tablet Model-178,120640,6,45,4.3,"Detachable Keyboard, Quad Speakers, 10-inch Display",Out of Stock,2 Years,White
+SMA-REA-11,Smartphone,Realme,Realme Smartphone Model-737,20106,18,42,3.8,"5G, Water Resistant, Fast Charging",In Stock,2 Years,Red
+CAM-CAN-7,Camera,Canon,Canon Camera Model-216,33036,7,47,4.8,"WiFi Connectivity, Image Stabilization, High ISO Sensitivity",In Stock,1 Year,Red
+CAM-NIK-9,Camera,Nikon,Nikon Camera Model-472,44735,18,29,4.7,"4K Video, High ISO Sensitivity, Image Stabilization",Out of Stock,1 Year,Silver
+HEA-SON-1,Headphones,Sony,Sony Headphones Model-349,10628,10,32,3.3,"Foldable, Noise Cancellation, Waterproof",In Stock,2 Years,Blue
+SMA-REA-5,Smartphone,Realme,Realme Smartphone Model-565,96382,16,47,3.7,"5G, Fast Charging, Dual SIM",In Stock,3 Years,White
+CAM-OLY-1,Camera,Olympus,Olympus Camera Model-110,63763,19,30,3.5,"4K Video, High ISO Sensitivity, Image Stabilization",Out of Stock,2 Years,White
+CAM-OLY-4,Camera,Olympus,Olympus Camera Model-317,123511,12,49,3.4,"High ISO Sensitivity, Touchscreen, Image Stabilization",Out of Stock,1 Year,Silver
+HEA-SKU-12,Headphones,Skullcandy,Skullcandy Headphones Model-374,18373,9,24,4.6,"Bass Boost, Wireless, Waterproof",Out of Stock,2 Years,White
+SMA-GOO-8,Smartphone,Google,Google Smartphone Model-310,88622,13,50,3.9,"Water Resistant, Fast Charging, Dual SIM",In Stock,2 Years,Blue
+TAB-SAM-11,Tablet,Samsung,Samsung Tablet Model-676,70575,8,36,3.3,"Detachable Keyboard, Stylus Support, 10-inch Display",In Stock,3 Years,Silver
+LAP-APP-10,Laptop,Apple,Apple Laptop Model-115,97446,6,34,3.2,"Lightweight, High-Performance GPU, SSD Storage",Out of Stock,3 Years,White
+SMA-SAM-15,Smartwatch,Samsung,Samsung Smartwatch Model-908,138725,11,47,3.9,"Fitness Tracking, Customizable Watch Faces, GPS",In Stock,2 Years,Silver
+CAM-NIK-8,Camera,Nikon,Nikon Camera Model-418,115191,19,46,3.4,"4K Video, High ISO Sensitivity, Touchscreen",Out of Stock,3 Years,White
+TAB-SAM-8,Tablet,Samsung,Samsung Tablet Model-976,141756,10,33,4.9,"Detachable Keyboard, Quad Speakers, Long Battery Life",In Stock,3 Years,Silver
+HEA-SEN-6,Headphones,Sennheiser,Sennheiser Headphones Model-462,146202,8,23,4.4,"Wireless, Waterproof, Noise Cancellation",Out of Stock,3 Years,Blue
+LAP-MSI-10,Laptop,MSI,MSI Laptop Model-652,12883,18,27,4.6,"Lightweight, High-Performance GPU, SSD Storage",Out of Stock,2 Years,Black
+HEA-BOS-6,Headphones,Bose,Bose Headphones Model-375,112582,20,46,4.2,"Bass Boost, Foldable, Noise Cancellation",In Stock,2 Years,Blue
+SMA-XIA-6,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-674,9389,6,46,3.5,"Heart Rate Monitor, GPS, Waterproof",In Stock,1 Year,Red
+TAB-MIC-4,Tablet,Microsoft,Microsoft Tablet Model-837,106010,19,22,4.9,"Stylus Support, Quad Speakers, 10-inch Display",In Stock,2 Years,Blue
+SMA-SAM-6,Smartphone,Samsung,Samsung Smartphone Model-599,115126,18,42,3.7,"Dual SIM, Fast Charging, Water Resistant",In Stock,2 Years,Silver
+SMA-OPP-6,Smartphone,Oppo,Oppo Smartphone Model-146,29616,13,26,3.8,"5G, Fast Charging, AMOLED Display",In Stock,1 Year,White
+TAB-SAM-9,Tablet,Samsung,Samsung Tablet Model-140,77793,10,38,4.6,"Detachable Keyboard, Quad Speakers, Long Battery Life",In Stock,3 Years,Black
+SMA-OPP-12,Smartphone,Oppo,Oppo Smartphone Model-256,80443,14,40,3.1,"AMOLED Display, 5G, Water Resistant",Out of Stock,1 Year,Blue
+SMA-XIA-3,Smartphone,Xiaomi,Xiaomi Smartphone Model-131,147549,16,37,4.9,"Water Resistant, Dual SIM, Fast Charging",In Stock,3 Years,Red
+TAB-LEN-10,Tablet,Lenovo,Lenovo Tablet Model-826,44640,16,50,3.3,"10-inch Display, Long Battery Life, Quad Speakers",In Stock,3 Years,Red
+HEA-SEN-14,Headphones,Sennheiser,Sennheiser Headphones Model-518,133068,5,46,4.0,"Wireless, Foldable, Bass Boost",In Stock,3 Years,Red
+SMA-GAR-7,Smartwatch,Garmin,Garmin Smartwatch Model-316,146643,9,23,4.5,"Heart Rate Monitor, Fitness Tracking, GPS",In Stock,1 Year,Blue
+SMA-FOS-1,Smartwatch,Fossil,Fossil Smartwatch Model-528,12290,13,23,4.2,"Customizable Watch Faces, Fitness Tracking, Heart Rate Monitor",In Stock,2 Years,Black
+HEA-SON-8,Headphones,Sony,Sony Headphones Model-372,69254,11,21,3.1,"Wireless, Noise Cancellation, Bass Boost",Out of Stock,3 Years,Black
+SMA-SAM-12,Smartwatch,Samsung,Samsung Smartwatch Model-907,121774,16,35,3.4,"Customizable Watch Faces, Fitness Tracking, GPS",Out of Stock,1 Year,Silver
+SMA-SAM-4,Smartphone,Samsung,Samsung Smartphone Model-708,148562,15,29,4.8,"Dual SIM, 5G, Fast Charging",Out of Stock,2 Years,Blue
+HEA-SEN-13,Headphones,Sennheiser,Sennheiser Headphones Model-107,117820,6,28,4.7,"Noise Cancellation, Bass Boost, Waterproof",Out of Stock,3 Years,Silver
+HEA-JBL-10,Headphones,JBL,JBL Headphones Model-714,85898,11,43,3.8,"Foldable, Wireless, Noise Cancellation",In Stock,3 Years,White
+SMA-OPP-2,Smartphone,Oppo,Oppo Smartphone Model-153,148268,14,46,4.7,"AMOLED Display, Water Resistant, Fast Charging",In Stock,3 Years,Silver
+SMA-APP-2,Smartphone,Apple,Apple Smartphone Model-593,46129,16,44,3.1,"5G, Water Resistant, Fast Charging",In Stock,3 Years,Blue
+LAP-HP-9,Laptop,HP,HP Laptop Model-679,58226,5,38,3.2,"SSD Storage, Backlit Keyboard, Touchscreen",Out of Stock,1 Year,Silver
+SMA-XIA-1,Smartphone,Xiaomi,Xiaomi Smartphone Model-751,84529,17,33,4.3,"Dual SIM, Fast Charging, 5G",In Stock,3 Years,Silver
+HEA-SKU-2,Headphones,Skullcandy,Skullcandy Headphones Model-749,80166,19,28,3.1,"Bass Boost, Waterproof, Noise Cancellation",In Stock,1 Year,Black
+TAB-GOO-1,Tablet,Google,Google Tablet Model-963,83110,15,34,4.2,"Detachable Keyboard, 10-inch Display, Stylus Support",In Stock,3 Years,Blue
+TAB-MIC-5,Tablet,Microsoft,Microsoft Tablet Model-874,104879,14,31,3.7,"Detachable Keyboard, Quad Speakers, 10-inch Display",Out of Stock,1 Year,Red
+SMA-VIV-9,Smartphone,Vivo,Vivo Smartphone Model-913,149103,12,37,4.7,"Fast Charging, Water Resistant, 5G",In Stock,3 Years,Black
+TAB-SAM-2,Tablet,Samsung,Samsung Tablet Model-601,73398,11,23,4.4,"Long Battery Life, Quad Speakers, Detachable Keyboard",In Stock,1 Year,White
+TAB-SAM-10,Tablet,Samsung,Samsung Tablet Model-396,75500,6,37,3.8,"10-inch Display, Long Battery Life, Quad Speakers",In Stock,1 Year,Silver
+SMA-APP-11,Smartwatch,Apple,Apple Smartwatch Model-310,96963,5,32,3.0,"Waterproof, Heart Rate Monitor, Customizable Watch Faces",Out of Stock,3 Years,Red
+LAP-LEN-8,Laptop,Lenovo,Lenovo Laptop Model-475,54919,13,30,3.2,"Touchscreen, SSD Storage, Backlit Keyboard",Out of Stock,2 Years,Red
+HEA-ANK-4,Headphones,Anker,Anker Headphones Model-232,46114,13,24,4.9,"Noise Cancellation, Bass Boost, Waterproof",Out of Stock,2 Years,Blue
+SMA-ONE-3,Smartphone,OnePlus,OnePlus Smartphone Model-777,132029,9,33,3.4,"Fast Charging, Water Resistant, AMOLED Display",In Stock,1 Year,Red
+SMA-SAM-8,Smartphone,Samsung,Samsung Smartphone Model-274,126353,14,21,3.6,"5G, AMOLED Display, Dual SIM",Out of Stock,1 Year,Red
+TAB-AMA-2,Tablet,Amazon,Amazon Tablet Model-481,127706,16,37,4.9,"Quad Speakers, Detachable Keyboard, 10-inch Display",In Stock,3 Years,Blue
+SMA-VIV-4,Smartphone,Vivo,Vivo Smartphone Model-546,60494,18,42,3.8,"Fast Charging, AMOLED Display, 5G",In Stock,1 Year,Black
+CAM-PAN-2,Camera,Panasonic,Panasonic Camera Model-567,6761,16,50,4.4,"4K Video, Image Stabilization, WiFi Connectivity",In Stock,2 Years,Silver
+HEA-SEN-1,Headphones,Sennheiser,Sennheiser Headphones Model-230,108013,15,29,4.2,"Wireless, Foldable, Noise Cancellation",Out of Stock,1 Year,Blue
+HEA-SON-14,Headphones,Sony,Sony Headphones Model-258,28363,14,47,4.8,"Foldable, Wireless, Waterproof",In Stock,2 Years,White
+SMA-AMA-2,Smartwatch,Amazfit,Amazfit Smartwatch Model-627,79498,19,50,4.6,"Customizable Watch Faces, Heart Rate Monitor, Fitness Tracking",Out of Stock,3 Years,Blue
+CAM-SON-9,Camera,Sony,Sony Camera Model-879,18949,15,40,3.9,"WiFi Connectivity, 4K Video, Touchscreen",Out of Stock,1 Year,Blue
+SMA-FOS-9,Smartwatch,Fossil,Fossil Smartwatch Model-419,120786,20,40,3.7,"Heart Rate Monitor, GPS, Fitness Tracking",Out of Stock,1 Year,White
+SMA-FIT-2,Smartwatch,Fitbit,Fitbit Smartwatch Model-933,81440,19,22,4.3,"Heart Rate Monitor, Customizable Watch Faces, Fitness Tracking",Out of Stock,3 Years,Blue
+HEA-JBL-3,Headphones,JBL,JBL Headphones Model-123,122877,12,28,3.5,"Waterproof, Bass Boost, Wireless",In Stock,1 Year,Silver
+HEA-SKU-10,Headphones,Skullcandy,Skullcandy Headphones Model-108,17832,5,29,3.4,"Wireless, Waterproof, Noise Cancellation",Out of Stock,1 Year,Blue
+SMA-ONE-10,Smartphone,OnePlus,OnePlus Smartphone Model-582,18846,16,48,3.8,"Dual SIM, 5G, Fast Charging",In Stock,2 Years,Black
+CAM-FUJ-6,Camera,Fujifilm,Fujifilm Camera Model-347,50433,20,38,4.4,"High ISO Sensitivity, WiFi Connectivity, Image Stabilization",In Stock,1 Year,Red
+LAP-ASU-8,Laptop,Asus,Asus Laptop Model-160,5240,12,40,4.9,"SSD Storage, Lightweight, High-Performance GPU",In Stock,3 Years,Blue
+HEA-SKU-9,Headphones,Skullcandy,Skullcandy Headphones Model-359,82284,12,46,4.5,"Bass Boost, Waterproof, Noise Cancellation",Out of Stock,3 Years,White
+HEA-BOA-9,Headphones,Boat,Boat Headphones Model-666,52446,12,21,3.4,"Bass Boost, Waterproof, Foldable",In Stock,3 Years,Silver
+TAB-GOO-4,Tablet,Google,Google Tablet Model-293,125057,10,39,4.9,"Stylus Support, Quad Speakers, Long Battery Life",Out of Stock,1 Year,Red
+SMA-AMA-3,Smartwatch,Amazfit,Amazfit Smartwatch Model-440,122674,5,21,4.3,"Waterproof, Heart Rate Monitor, Customizable Watch Faces",In Stock,2 Years,Red
+TAB-SAM-4,Tablet,Samsung,Samsung Tablet Model-337,59575,14,23,3.1,"Stylus Support, Long Battery Life, 10-inch Display",In Stock,1 Year,White
+SMA-FIT-6,Smartwatch,Fitbit,Fitbit Smartwatch Model-172,108217,13,36,3.5,"Customizable Watch Faces, Heart Rate Monitor, GPS",In Stock,1 Year,White
+TAB-MIC-10,Tablet,Microsoft,Microsoft Tablet Model-308,75212,5,23,4.9,"Quad Speakers, Stylus Support, 10-inch Display",In Stock,3 Years,Blue
+LAP-LEN-11,Laptop,Lenovo,Lenovo Laptop Model-549,97517,15,39,3.3,"Touchscreen, Lightweight, SSD Storage",In Stock,1 Year,Red
+LAP-DEL-7,Laptop,Dell,Dell Laptop Model-481,69914,10,23,4.7,"Backlit Keyboard, SSD Storage, Touchscreen",In Stock,3 Years,Silver
+TAB-APP-7,Tablet,Apple,Apple Tablet Model-289,14604,6,36,3.7,"Long Battery Life, Stylus Support, Quad Speakers",Out of Stock,3 Years,Silver
+HEA-JBL-14,Headphones,JBL,JBL Headphones Model-634,79885,7,46,4.3,"Waterproof, Bass Boost, Noise Cancellation",Out of Stock,1 Year,Black
+SMA-GAR-5,Smartwatch,Garmin,Garmin Smartwatch Model-473,76327,18,33,3.9,"Fitness Tracking, Heart Rate Monitor, Waterproof",In Stock,3 Years,Red
+TAB-GOO-6,Tablet,Google,Google Tablet Model-147,54981,9,28,4.0,"Quad Speakers, Long Battery Life, 10-inch Display",Out of Stock,3 Years,Black
+LAP-LEN-1,Laptop,Lenovo,Lenovo Laptop Model-123,34228,13,23,4.4,"Backlit Keyboard, High-Performance GPU, Lightweight",Out of Stock,2 Years,Silver
+TAB-AMA-1,Tablet,Amazon,Amazon Tablet Model-720,72703,8,37,3.1,"Stylus Support, Detachable Keyboard, Long Battery Life",In Stock,3 Years,Silver
+HEA-JBL-9,Headphones,JBL,JBL Headphones Model-101,73148,18,38,4.5,"Foldable, Bass Boost, Waterproof",In Stock,1 Year,Red
+HEA-BOA-1,Headphones,Boat,Boat Headphones Model-348,91665,19,39,3.9,"Foldable, Waterproof, Noise Cancellation",Out of Stock,1 Year,Blue
+SMA-ONE-5,Smartphone,OnePlus,OnePlus Smartphone Model-780,21031,20,26,4.3,"Dual SIM, Water Resistant, AMOLED Display",Out of Stock,3 Years,Black
+SMA-FOS-7,Smartwatch,Fossil,Fossil Smartwatch Model-195,149232,18,28,4.3,"GPS, Customizable Watch Faces, Fitness Tracking",In Stock,3 Years,White
+HEA-JBL-13,Headphones,JBL,JBL Headphones Model-848,28156,12,40,4.4,"Wireless, Foldable, Waterproof",Out of Stock,3 Years,Silver
+SMA-AMA-5,Smartwatch,Amazfit,Amazfit Smartwatch Model-316,99900,9,41,4.7,"GPS, Heart Rate Monitor, Customizable Watch Faces",Out of Stock,2 Years,White
+CAM-NIK-6,Camera,Nikon,Nikon Camera Model-219,101517,5,41,4.2,"4K Video, High ISO Sensitivity, WiFi Connectivity",Out of Stock,2 Years,Silver
+LAP-LEN-7,Laptop,Lenovo,Lenovo Laptop Model-910,54638,10,24,4.1,"Lightweight, High-Performance GPU, Backlit Keyboard",Out of Stock,2 Years,Black
+LAP-HP-1,Laptop,HP,HP Laptop Model-745,146150,12,31,3.5,"High-Performance GPU, Touchscreen, Backlit Keyboard",Out of Stock,2 Years,Silver
+CAM-NIK-3,Camera,Nikon,Nikon Camera Model-760,30770,11,25,4.7,"High ISO Sensitivity, 4K Video, Touchscreen",Out of Stock,1 Year,Red
+LAP-ACE-11,Laptop,Acer,Acer Laptop Model-534,124823,18,43,4.3,"Lightweight, Backlit Keyboard, SSD Storage",Out of Stock,2 Years,Red
+HEA-BEA-9,Headphones,Beats,Beats Headphones Model-835,31720,18,28,3.1,"Wireless, Waterproof, Noise Cancellation",In Stock,3 Years,Red
+TAB-LEN-9,Tablet,Lenovo,Lenovo Tablet Model-725,43202,16,20,4.9,"Stylus Support, Detachable Keyboard, 10-inch Display",In Stock,3 Years,Blue
+LAP-ACE-8,Laptop,Acer,Acer Laptop Model-576,32074,15,32,4.7,"High-Performance GPU, Backlit Keyboard, Touchscreen",Out of Stock,1 Year,Black
+HEA-BEA-7,Headphones,Beats,Beats Headphones Model-802,105654,8,23,4.4,"Noise Cancellation, Wireless, Foldable",Out of Stock,3 Years,Black
+TAB-GOO-7,Tablet,Google,Google Tablet Model-866,43058,15,20,4.6,"Stylus Support, 10-inch Display, Detachable Keyboard",In Stock,3 Years,Black
+SMA-VIV-8,Smartphone,Vivo,Vivo Smartphone Model-800,33151,20,39,3.7,"5G, AMOLED Display, Fast Charging",Out of Stock,2 Years,Blue
+SMA-SAM-11,Smartwatch,Samsung,Samsung Smartwatch Model-844,126527,18,47,3.9,"GPS, Heart Rate Monitor, Fitness Tracking",Out of Stock,2 Years,Blue
+HEA-SEN-3,Headphones,Sennheiser,Sennheiser Headphones Model-696,142839,19,29,4.7,"Foldable, Wireless, Waterproof",Out of Stock,2 Years,Silver
+SMA-FOS-10,Smartwatch,Fossil,Fossil Smartwatch Model-267,22169,16,37,3.8,"Customizable Watch Faces, Heart Rate Monitor, Waterproof",In Stock,2 Years,Black
+CAM-OLY-3,Camera,Olympus,Olympus Camera Model-491,112749,8,40,4.7,"WiFi Connectivity, High ISO Sensitivity, Image Stabilization",In Stock,3 Years,Red
+SMA-XIA-1,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-495,80583,15,41,3.0,"GPS, Waterproof, Heart Rate Monitor",Out of Stock,2 Years,Black
+TAB-SAM-6,Tablet,Samsung,Samsung Tablet Model-472,37951,10,42,4.6,"Long Battery Life, 10-inch Display, Stylus Support",In Stock,1 Year,Black
+HEA-BEA-13,Headphones,Beats,Beats Headphones Model-486,6625,6,25,3.9,"Noise Cancellation, Wireless, Foldable",In Stock,1 Year,Red
+CAM-NIK-13,Camera,Nikon,Nikon Camera Model-937,17390,20,45,5.0,"4K Video, High ISO Sensitivity, WiFi Connectivity",In Stock,2 Years,Black
+LAP-HP-4,Laptop,HP,HP Laptop Model-580,17747,5,50,4.9,"SSD Storage, Lightweight, High-Performance GPU",In Stock,2 Years,Red
+HEA-BOA-10,Headphones,Boat,Boat Headphones Model-744,54202,17,50,4.8,"Bass Boost, Foldable, Noise Cancellation",Out of Stock,1 Year,Red
+LAP-ASU-4,Laptop,Asus,Asus Laptop Model-478,101976,6,36,4.7,"Lightweight, Touchscreen, Backlit Keyboard",Out of Stock,1 Year,Blue
+SMA-GOO-6,Smartphone,Google,Google Smartphone Model-783,60767,11,23,4.4,"Water Resistant, Fast Charging, 5G",Out of Stock,1 Year,Silver
+SMA-APP-3,Smartphone,Apple,Apple Smartphone Model-216,111065,9,36,3.4,"AMOLED Display, Dual SIM, 5G",Out of Stock,3 Years,Red
+LAP-APP-2,Laptop,Apple,Apple Laptop Model-911,125498,8,26,3.2,"High-Performance GPU, Touchscreen, Lightweight",Out of Stock,3 Years,Black
+CAM-GOP-10,Camera,GoPro,GoPro Camera Model-903,118397,7,40,4.5,"WiFi Connectivity, Image Stabilization, High ISO Sensitivity",In Stock,2 Years,Black
+HEA-ANK-2,Headphones,Anker,Anker Headphones Model-593,13819,20,40,4.6,"Noise Cancellation, Wireless, Foldable",Out of Stock,1 Year,Blue
+HEA-BEA-2,Headphones,Beats,Beats Headphones Model-465,93724,13,31,4.5,"Wireless, Foldable, Waterproof",In Stock,2 Years,Blue
+LAP-HP-3,Laptop,HP,HP Laptop Model-777,23636,19,48,3.3,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,2 Years,Black
+HEA-BOS-2,Headphones,Bose,Bose Headphones Model-723,31794,12,35,4.0,"Wireless, Bass Boost, Noise Cancellation",Out of Stock,1 Year,Silver
+SMA-SAM-7,Smartwatch,Samsung,Samsung Smartwatch Model-702,52063,11,45,4.8,"GPS, Waterproof, Customizable Watch Faces",In Stock,3 Years,White
+SMA-GAR-2,Smartwatch,Garmin,Garmin Smartwatch Model-626,103751,13,30,3.4,"GPS, Waterproof, Fitness Tracking",Out of Stock,2 Years,Red
+LAP-MSI-9,Laptop,MSI,MSI Laptop Model-716,54534,8,28,4.0,"Lightweight, SSD Storage, High-Performance GPU",Out of Stock,2 Years,Black
+SMA-ONE-12,Smartphone,OnePlus,OnePlus Smartphone Model-273,132210,18,41,3.3,"Dual SIM, Water Resistant, Fast Charging",In Stock,1 Year,Blue
+SMA-FOS-4,Smartwatch,Fossil,Fossil Smartwatch Model-442,102164,15,45,4.6,"Fitness Tracking, Heart Rate Monitor, Waterproof",In Stock,2 Years,Black
+SMA-SAM-5,Smartphone,Samsung,Samsung Smartphone Model-206,64444,14,41,4.2,"Dual SIM, AMOLED Display, Fast Charging",Out of Stock,2 Years,White
+SMA-APP-5,Smartphone,Apple,Apple Smartphone Model-875,114899,14,20,3.7,"AMOLED Display, Fast Charging, Dual SIM",Out of Stock,3 Years,Silver
+LAP-MSI-12,Laptop,MSI,MSI Laptop Model-847,136216,12,32,4.9,"Touchscreen, Backlit Keyboard, Lightweight",In Stock,2 Years,Black
+HEA-SON-6,Headphones,Sony,Sony Headphones Model-389,7965,20,20,3.9,"Wireless, Waterproof, Bass Boost",Out of Stock,2 Years,Black
+LAP-ASU-11,Laptop,Asus,Asus Laptop Model-676,49133,19,24,3.5,"SSD Storage, High-Performance GPU, Touchscreen",Out of Stock,3 Years,White
+TAB-APP-2,Tablet,Apple,Apple Tablet Model-622,96957,12,43,4.6,"Long Battery Life, Detachable Keyboard, 10-inch Display",In Stock,1 Year,White
+HEA-BOS-11,Headphones,Bose,Bose Headphones Model-145,101012,18,28,4.9,"Bass Boost, Foldable, Noise Cancellation",In Stock,3 Years,Silver
+LAP-DEL-14,Laptop,Dell,Dell Laptop Model-169,27253,9,31,3.2,"Backlit Keyboard, Lightweight, Touchscreen",Out of Stock,2 Years,Silver
+HEA-BOS-10,Headphones,Bose,Bose Headphones Model-264,8307,19,44,3.1,"Waterproof, Wireless, Noise Cancellation",Out of Stock,2 Years,White
+CAM-FUJ-7,Camera,Fujifilm,Fujifilm Camera Model-132,24215,10,41,4.4,"4K Video, High ISO Sensitivity, Image Stabilization",Out of Stock,3 Years,Red
+LAP-APP-5,Laptop,Apple,Apple Laptop Model-926,84698,7,27,4.0,"SSD Storage, High-Performance GPU, Backlit Keyboard",In Stock,2 Years,Silver
+SMA-OPP-5,Smartphone,Oppo,Oppo Smartphone Model-628,68379,8,39,4.5,"Water Resistant, Dual SIM, Fast Charging",In Stock,1 Year,Blue
+LAP-APP-4,Laptop,Apple,Apple Laptop Model-913,70012,19,36,3.5,"Touchscreen, SSD Storage, Backlit Keyboard",In Stock,2 Years,Silver
+TAB-MIC-1,Tablet,Microsoft,Microsoft Tablet Model-888,119701,6,47,3.8,"Stylus Support, Quad Speakers, Detachable Keyboard",In Stock,3 Years,Blue
+SMA-VIV-3,Smartphone,Vivo,Vivo Smartphone Model-969,39508,10,23,4.9,"AMOLED Display, Dual SIM, 5G",In Stock,3 Years,White
+SMA-GOO-4,Smartphone,Google,Google Smartphone Model-337,142802,7,30,3.5,"AMOLED Display, Water Resistant, 5G",Out of Stock,3 Years,Blue
+SMA-SAM-6,Smartwatch,Samsung,Samsung Smartwatch Model-929,115488,11,38,3.8,"Waterproof, Customizable Watch Faces, Heart Rate Monitor",Out of Stock,3 Years,Blue
+HEA-ANK-7,Headphones,Anker,Anker Headphones Model-439,88044,16,46,4.9,"Noise Cancellation, Wireless, Bass Boost",Out of Stock,1 Year,White
+SMA-OPP-7,Smartphone,Oppo,Oppo Smartphone Model-871,118193,15,22,3.4,"5G, AMOLED Display, Fast Charging",In Stock,2 Years,Red
+LAP-ACE-7,Laptop,Acer,Acer Laptop Model-690,123533,16,35,4.6,"SSD Storage, High-Performance GPU, Lightweight",Out of Stock,3 Years,Red
+SMA-APP-7,Smartwatch,Apple,Apple Smartwatch Model-574,35846,13,31,4.3,"Customizable Watch Faces, GPS, Fitness Tracking",Out of Stock,3 Years,Silver
+SMA-VIV-13,Smartphone,Vivo,Vivo Smartphone Model-780,52159,12,42,4.8,"AMOLED Display, 5G, Fast Charging",In Stock,2 Years,Black
+HEA-JBL-12,Headphones,JBL,JBL Headphones Model-316,85588,18,43,3.7,"Noise Cancellation, Foldable, Waterproof",Out of Stock,3 Years,Red
+TAB-HUA-6,Tablet,Huawei,Huawei Tablet Model-464,16544,14,28,3.7,"Quad Speakers, Long Battery Life, Stylus Support",Out of Stock,2 Years,Silver
+SMA-VIV-7,Smartphone,Vivo,Vivo Smartphone Model-873,100898,19,22,4.4,"Fast Charging, AMOLED Display, Water Resistant",In Stock,1 Year,White
+LAP-MSI-11,Laptop,MSI,MSI Laptop Model-445,34928,15,50,4.3,"Touchscreen, Lightweight, SSD Storage",Out of Stock,2 Years,Red
+SMA-APP-9,Smartwatch,Apple,Apple Smartwatch Model-707,29081,12,20,3.7,"Customizable Watch Faces, GPS, Waterproof",Out of Stock,2 Years,Silver
+LAP-MIC-9,Laptop,Microsoft,Microsoft Laptop Model-819,63888,15,44,3.7,"Backlit Keyboard, Touchscreen, High-Performance GPU",Out of Stock,1 Year,Red
+LAP-ASU-6,Laptop,Asus,Asus Laptop Model-506,97615,5,41,4.4,"SSD Storage, Touchscreen, Lightweight",Out of Stock,1 Year,Black
+SMA-REA-8,Smartphone,Realme,Realme Smartphone Model-925,6386,7,45,3.3,"Dual SIM, Water Resistant, Fast Charging",In Stock,1 Year,Red
+HEA-JBL-2,Headphones,JBL,JBL Headphones Model-203,149455,18,46,3.5,"Bass Boost, Wireless, Foldable",In Stock,1 Year,White
+SMA-GAR-11,Smartwatch,Garmin,Garmin Smartwatch Model-463,74129,18,43,4.1,"Fitness Tracking, Customizable Watch Faces, Heart Rate Monitor",In Stock,3 Years,Red
+LAP-DEL-13,Laptop,Dell,Dell Laptop Model-432,98406,9,40,3.3,"SSD Storage, Backlit Keyboard, Lightweight",In Stock,2 Years,Black
+TAB-AMA-8,Tablet,Amazon,Amazon Tablet Model-360,72135,14,29,4.7,"Quad Speakers, Detachable Keyboard, Stylus Support",In Stock,1 Year,Silver
+SMA-FIT-8,Smartwatch,Fitbit,Fitbit Smartwatch Model-791,132407,18,22,4.1,"GPS, Heart Rate Monitor, Fitness Tracking",Out of Stock,1 Year,Red
+CAM-GOP-8,Camera,GoPro,GoPro Camera Model-918,40351,16,46,4.4,"WiFi Connectivity, Image Stabilization, 4K Video",Out of Stock,1 Year,Blue
+LAP-MIC-1,Laptop,Microsoft,Microsoft Laptop Model-325,86899,11,33,3.5,"Touchscreen, Lightweight, High-Performance GPU",Out of Stock,2 Years,Blue
+TAB-APP-9,Tablet,Apple,Apple Tablet Model-240,105258,19,43,3.4,"10-inch Display, Detachable Keyboard, Stylus Support",Out of Stock,1 Year,White
+SMA-FIT-10,Smartwatch,Fitbit,Fitbit Smartwatch Model-973,125918,10,46,3.9,"Waterproof, Heart Rate Monitor, GPS",In Stock,2 Years,White
+HEA-SKU-11,Headphones,Skullcandy,Skullcandy Headphones Model-514,131037,12,21,4.4,"Noise Cancellation, Waterproof, Foldable",Out of Stock,3 Years,Black
+HEA-BEA-8,Headphones,Beats,Beats Headphones Model-782,116963,13,28,4.6,"Wireless, Waterproof, Bass Boost",Out of Stock,3 Years,Silver
+TAB-SAM-1,Tablet,Samsung,Samsung Tablet Model-513,98318,19,30,4.5,"Detachable Keyboard, Quad Speakers, Long Battery Life",In Stock,3 Years,Red
+SMA-VIV-10,Smartphone,Vivo,Vivo Smartphone Model-906,78131,6,45,4.2,"AMOLED Display, Fast Charging, 5G",In Stock,1 Year,White
+CAM-LEI-7,Camera,Leica,Leica Camera Model-432,35350,19,30,3.0,"Image Stabilization, WiFi Connectivity, 4K Video",In Stock,1 Year,White
+CAM-SON-3,Camera,Sony,Sony Camera Model-813,31164,11,25,4.2,"High ISO Sensitivity, 4K Video, Touchscreen",In Stock,1 Year,Blue
+CAM-SON-10,Camera,Sony,Sony Camera Model-269,140352,17,45,3.1,"4K Video, Touchscreen, WiFi Connectivity",Out of Stock,2 Years,Red
+SMA-HUA-10,Smartwatch,Huawei,Huawei Smartwatch Model-294,95366,7,32,4.0,"Customizable Watch Faces, Heart Rate Monitor, GPS",Out of Stock,2 Years,White
+TAB-LEN-1,Tablet,Lenovo,Lenovo Tablet Model-472,106855,16,43,3.2,"Stylus Support, Long Battery Life, Detachable Keyboard",In Stock,1 Year,Red
+SMA-GAR-6,Smartwatch,Garmin,Garmin Smartwatch Model-465,16648,15,44,3.6,"Fitness Tracking, Heart Rate Monitor, GPS",Out of Stock,2 Years,Silver
+SMA-FIT-7,Smartwatch,Fitbit,Fitbit Smartwatch Model-880,54062,10,34,4.4,"Waterproof, Heart Rate Monitor, GPS",Out of Stock,1 Year,Red
+TAB-APP-4,Tablet,Apple,Apple Tablet Model-248,83099,7,37,3.1,"Stylus Support, 10-inch Display, Long Battery Life",Out of Stock,2 Years,Blue
+LAP-ACE-1,Laptop,Acer,Acer Laptop Model-303,36524,8,26,3.4,"Touchscreen, Backlit Keyboard, Lightweight",Out of Stock,2 Years,White
+HEA-SEN-10,Headphones,Sennheiser,Sennheiser Headphones Model-117,50434,9,43,4.6,"Noise Cancellation, Waterproof, Wireless",Out of Stock,2 Years,Silver
+CAM-LEI-8,Camera,Leica,Leica Camera Model-902,42449,9,28,5.0,"Image Stabilization, High ISO Sensitivity, Touchscreen",Out of Stock,3 Years,White
+SMA-XIA-2,Smartphone,Xiaomi,Xiaomi Smartphone Model-243,59037,14,36,4.8,"AMOLED Display, Fast Charging, Dual SIM",Out of Stock,1 Year,White
+CAM-NIK-2,Camera,Nikon,Nikon Camera Model-994,66399,13,45,4.3,"Touchscreen, WiFi Connectivity, Image Stabilization",In Stock,2 Years,Red
+SMA-FOS-11,Smartwatch,Fossil,Fossil Smartwatch Model-387,37465,16,20,4.4,"Fitness Tracking, Heart Rate Monitor, Waterproof",In Stock,1 Year,Black
+SMA-GAR-9,Smartwatch,Garmin,Garmin Smartwatch Model-829,13711,6,29,4.2,"Waterproof, Fitness Tracking, Heart Rate Monitor",Out of Stock,3 Years,Blue
+SMA-XIA-8,Smartphone,Xiaomi,Xiaomi Smartphone Model-871,67243,5,36,3.2,"Fast Charging, AMOLED Display, 5G",In Stock,3 Years,Black
+LAP-HP-5,Laptop,HP,HP Laptop Model-760,113467,8,35,3.6,"High-Performance GPU, Lightweight, Backlit Keyboard",Out of Stock,3 Years,White
+TAB-MIC-3,Tablet,Microsoft,Microsoft Tablet Model-848,13462,12,22,4.7,"Detachable Keyboard, 10-inch Display, Long Battery Life",Out of Stock,2 Years,Silver
+SMA-APP-10,Smartwatch,Apple,Apple Smartwatch Model-376,73002,7,35,4.6,"Customizable Watch Faces, GPS, Waterproof",Out of Stock,2 Years,White
+HEA-BEA-11,Headphones,Beats,Beats Headphones Model-759,89393,20,23,4.2,"Waterproof, Wireless, Noise Cancellation",Out of Stock,1 Year,White
+SMA-VIV-14,Smartphone,Vivo,Vivo Smartphone Model-776,115912,6,45,3.4,"Dual SIM, Fast Charging, Water Resistant",In Stock,3 Years,Red
+CAM-NIK-12,Camera,Nikon,Nikon Camera Model-376,145643,9,37,3.2,"High ISO Sensitivity, Image Stabilization, WiFi Connectivity",In Stock,1 Year,Blue
+HEA-BOA-8,Headphones,Boat,Boat Headphones Model-592,82180,6,38,4.2,"Bass Boost, Wireless, Noise Cancellation",In Stock,3 Years,White
+CAM-CAN-6,Camera,Canon,Canon Camera Model-318,27362,11,25,4.6,"Touchscreen, WiFi Connectivity, High ISO Sensitivity",Out of Stock,3 Years,Silver
+SMA-SAM-10,Smartphone,Samsung,Samsung Smartphone Model-633,101229,6,26,3.9,"Fast Charging, 5G, Water Resistant",Out of Stock,3 Years,White
+TAB-AMA-9,Tablet,Amazon,Amazon Tablet Model-881,6733,8,45,3.8,"Long Battery Life, Quad Speakers, Stylus Support",Out of Stock,2 Years,White
+CAM-FUJ-1,Camera,Fujifilm,Fujifilm Camera Model-434,132493,19,35,3.7,"Touchscreen, High ISO Sensitivity, 4K Video",In Stock,2 Years,White
+CAM-NIK-1,Camera,Nikon,Nikon Camera Model-445,101071,5,22,4.5,"High ISO Sensitivity, Touchscreen, Image Stabilization",Out of Stock,2 Years,Silver
+SMA-APP-6,Smartphone,Apple,Apple Smartphone Model-117,111514,12,23,3.8,"Fast Charging, Water Resistant, AMOLED Display",Out of Stock,2 Years,Black
+TAB-SAM-5,Tablet,Samsung,Samsung Tablet Model-974,124492,18,44,4.1,"Long Battery Life, 10-inch Display, Quad Speakers",In Stock,3 Years,Red
+CAM-LEI-6,Camera,Leica,Leica Camera Model-465,73567,17,40,4.2,"WiFi Connectivity, 4K Video, Image Stabilization",In Stock,1 Year,White
+TAB-HUA-3,Tablet,Huawei,Huawei Tablet Model-437,91600,14,29,4.8,"Quad Speakers, 10-inch Display, Stylus Support",In Stock,2 Years,Blue
+HEA-SKU-4,Headphones,Skullcandy,Skullcandy Headphones Model-124,49562,17,29,3.7,"Noise Cancellation, Wireless, Foldable",In Stock,2 Years,Silver
+SMA-OPP-8,Smartphone,Oppo,Oppo Smartphone Model-557,144050,17,46,3.5,"Fast Charging, Water Resistant, Dual SIM",In Stock,2 Years,Blue
+HEA-ANK-3,Headphones,Anker,Anker Headphones Model-417,100967,20,21,3.7,"Foldable, Noise Cancellation, Waterproof",In Stock,3 Years,White
+CAM-GOP-7,Camera,GoPro,GoPro Camera Model-888,49583,19,20,3.9,"4K Video, Image Stabilization, High ISO Sensitivity",Out of Stock,2 Years,Black
+TAB-GOO-10,Tablet,Google,Google Tablet Model-978,117603,8,48,4.8,"Detachable Keyboard, Long Battery Life, Quad Speakers",Out of Stock,1 Year,Black
+LAP-APP-3,Laptop,Apple,Apple Laptop Model-949,102897,15,39,3.6,"Lightweight, Touchscreen, Backlit Keyboard",Out of Stock,2 Years,Blue
+SMA-SAM-3,Smartphone,Samsung,Samsung Smartphone Model-564,94255,6,24,3.3,"Fast Charging, Dual SIM, Water Resistant",Out of Stock,3 Years,White
+HEA-SEN-4,Headphones,Sennheiser,Sennheiser Headphones Model-472,5135,7,37,3.6,"Wireless, Noise Cancellation, Foldable",In Stock,3 Years,White
+LAP-MSI-7,Laptop,MSI,MSI Laptop Model-434,136874,15,29,4.4,"Touchscreen, SSD Storage, Backlit Keyboard",In Stock,2 Years,Red
+HEA-SON-7,Headphones,Sony,Sony Headphones Model-403,58345,6,30,4.3,"Foldable, Bass Boost, Waterproof",Out of Stock,2 Years,Blue
+TAB-LEN-2,Tablet,Lenovo,Lenovo Tablet Model-598,68019,13,26,3.4,"Quad Speakers, 10-inch Display, Long Battery Life",In Stock,2 Years,Silver
+TAB-LEN-4,Tablet,Lenovo,Lenovo Tablet Model-952,70379,18,23,3.4,"Stylus Support, 10-inch Display, Long Battery Life",Out of Stock,2 Years,Red
+SMA-HUA-4,Smartwatch,Huawei,Huawei Smartwatch Model-378,126518,7,49,4.6,"Waterproof, Fitness Tracking, Heart Rate Monitor",In Stock,1 Year,Silver
+TAB-APP-13,Tablet,Apple,Apple Tablet Model-324,143527,20,37,4.0,"Quad Speakers, Stylus Support, Detachable Keyboard",Out of Stock,2 Years,White
+HEA-ANK-11,Headphones,Anker,Anker Headphones Model-522,116220,12,47,4.3,"Waterproof, Foldable, Wireless",Out of Stock,1 Year,Red
+HEA-BOS-12,Headphones,Bose,Bose Headphones Model-954,94332,16,25,4.9,"Noise Cancellation, Bass Boost, Wireless",In Stock,1 Year,Black
+SMA-XIA-9,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-762,8092,5,26,4.5,"GPS, Fitness Tracking, Heart Rate Monitor",Out of Stock,3 Years,Black
+TAB-HUA-12,Tablet,Huawei,Huawei Tablet Model-455,149726,20,42,3.8,"Long Battery Life, Quad Speakers, Detachable Keyboard",Out of Stock,3 Years,Red
+CAM-SON-4,Camera,Sony,Sony Camera Model-266,51885,9,21,3.2,"4K Video, Touchscreen, High ISO Sensitivity",Out of Stock,3 Years,Blue
+TAB-MIC-11,Tablet,Microsoft,Microsoft Tablet Model-513,102550,15,36,4.7,"Detachable Keyboard, 10-inch Display, Long Battery Life",In Stock,2 Years,White
+CAM-GOP-12,Camera,GoPro,GoPro Camera Model-648,105600,6,47,4.9,"4K Video, High ISO Sensitivity, WiFi Connectivity",In Stock,1 Year,Red
+CAM-NIK-11,Camera,Nikon,Nikon Camera Model-321,78246,12,35,4.4,"Touchscreen, 4K Video, High ISO Sensitivity",Out of Stock,3 Years,White
+SMA-XIA-9,Smartphone,Xiaomi,Xiaomi Smartphone Model-497,8820,19,38,3.7,"Water Resistant, 5G, AMOLED Display",Out of Stock,2 Years,Blue
+LAP-LEN-2,Laptop,Lenovo,Lenovo Laptop Model-905,91571,8,24,4.8,"Lightweight, Backlit Keyboard, Touchscreen",In Stock,3 Years,Black
+SMA-XIA-10,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-555,45540,14,41,3.7,"Waterproof, Customizable Watch Faces, Fitness Tracking",In Stock,3 Years,White
+TAB-AMA-4,Tablet,Amazon,Amazon Tablet Model-209,33958,6,48,4.9,"Long Battery Life, Detachable Keyboard, Stylus Support",In Stock,3 Years,Red
+HEA-BOS-8,Headphones,Bose,Bose Headphones Model-934,115570,9,31,4.3,"Bass Boost, Foldable, Waterproof",In Stock,3 Years,Blue
+TAB-AMA-6,Tablet,Amazon,Amazon Tablet Model-914,116228,13,41,4.9,"Long Battery Life, Stylus Support, 10-inch Display",Out of Stock,1 Year,Silver
+LAP-ASU-5,Laptop,Asus,Asus Laptop Model-604,95764,7,21,4.6,"Lightweight, Backlit Keyboard, Touchscreen",In Stock,2 Years,Silver
+HEA-ANK-12,Headphones,Anker,Anker Headphones Model-251,15948,11,37,4.4,"Bass Boost, Foldable, Waterproof",In Stock,3 Years,White
+SMA-SAM-14,Smartwatch,Samsung,Samsung Smartwatch Model-747,46112,7,29,4.6,"Customizable Watch Faces, GPS, Heart Rate Monitor",Out of Stock,3 Years,Silver
+CAM-FUJ-2,Camera,Fujifilm,Fujifilm Camera Model-551,103740,19,46,4.9,"WiFi Connectivity, Touchscreen, Image Stabilization",In Stock,2 Years,White
+LAP-MIC-3,Laptop,Microsoft,Microsoft Laptop Model-722,97377,15,48,3.4,"Backlit Keyboard, Touchscreen, Lightweight",Out of Stock,3 Years,Red
+CAM-FUJ-10,Camera,Fujifilm,Fujifilm Camera Model-822,24823,11,31,4.8,"High ISO Sensitivity, Image Stabilization, 4K Video",In Stock,3 Years,Blue
+HEA-BOA-4,Headphones,Boat,Boat Headphones Model-352,129788,13,41,3.2,"Bass Boost, Foldable, Noise Cancellation",Out of Stock,3 Years,Red
+SMA-FIT-9,Smartwatch,Fitbit,Fitbit Smartwatch Model-510,149154,6,23,3.3,"Waterproof, Fitness Tracking, Customizable Watch Faces",In Stock,3 Years,Black
+TAB-GOO-8,Tablet,Google,Google Tablet Model-820,6493,18,29,4.4,"Detachable Keyboard, Long Battery Life, Quad Speakers",Out of Stock,1 Year,Blue
+HEA-BOA-5,Headphones,Boat,Boat Headphones Model-302,78378,7,48,4.2,"Bass Boost, Foldable, Waterproof",Out of Stock,1 Year,White
+LAP-MIC-6,Laptop,Microsoft,Microsoft Laptop Model-893,102104,14,25,4.6,"Touchscreen, Backlit Keyboard, SSD Storage",Out of Stock,3 Years,Silver
+LAP-MIC-8,Laptop,Microsoft,Microsoft Laptop Model-326,42487,17,37,3.3,"SSD Storage, Backlit Keyboard, High-Performance GPU",In Stock,1 Year,Silver
+LAP-DEL-9,Laptop,Dell,Dell Laptop Model-711,131527,16,20,3.4,"High-Performance GPU, Backlit Keyboard, Touchscreen",In Stock,3 Years,Black
+SMA-REA-9,Smartphone,Realme,Realme Smartphone Model-813,85232,17,24,4.0,"AMOLED Display, Fast Charging, Water Resistant",In Stock,3 Years,Silver
+SMA-XIA-7,Smartphone,Xiaomi,Xiaomi Smartphone Model-948,97823,8,29,4.5,"Dual SIM, Fast Charging, AMOLED Display",Out of Stock,3 Years,Red
+CAM-SON-1,Camera,Sony,Sony Camera Model-203,13785,9,30,3.1,"High ISO Sensitivity, Touchscreen, 4K Video",Out of Stock,3 Years,Silver
+HEA-JBL-4,Headphones,JBL,JBL Headphones Model-893,107957,6,37,4.2,"Wireless, Waterproof, Foldable",In Stock,3 Years,Black
+TAB-APP-1,Tablet,Apple,Apple Tablet Model-578,127768,7,21,3.2,"Detachable Keyboard, Quad Speakers, Long Battery Life",In Stock,1 Year,Red
+CAM-SON-7,Camera,Sony,Sony Camera Model-140,118916,15,23,4.8,"High ISO Sensitivity, WiFi Connectivity, Touchscreen",In Stock,1 Year,Black
+TAB-SAM-7,Tablet,Samsung,Samsung Tablet Model-182,7317,10,45,3.1,"Quad Speakers, Detachable Keyboard, 10-inch Display",Out of Stock,3 Years,Blue
+LAP-LEN-6,Laptop,Lenovo,Lenovo Laptop Model-872,15504,16,33,4.9,"Lightweight, Backlit Keyboard, SSD Storage",In Stock,3 Years,Blue
+LAP-DEL-5,Laptop,Dell,Dell Laptop Model-795,98401,20,30,4.7,"Backlit Keyboard, High-Performance GPU, SSD Storage",Out of Stock,2 Years,Silver
+LAP-MIC-10,Laptop,Microsoft,Microsoft Laptop Model-800,113827,17,31,3.4,"High-Performance GPU, Touchscreen, Backlit Keyboard",Out of Stock,1 Year,Blue
+HEA-SEN-12,Headphones,Sennheiser,Sennheiser Headphones Model-767,70486,16,23,4.9,"Wireless, Foldable, Noise Cancellation",In Stock,1 Year,White
+HEA-JBL-5,Headphones,JBL,JBL Headphones Model-122,65050,17,29,4.8,"Waterproof, Bass Boost, Foldable",In Stock,2 Years,Black
+HEA-ANK-5,Headphones,Anker,Anker Headphones Model-741,142225,16,44,3.4,"Waterproof, Bass Boost, Wireless",In Stock,1 Year,Blue
+LAP-APP-6,Laptop,Apple,Apple Laptop Model-779,47763,19,21,4.9,"Backlit Keyboard, Lightweight, Touchscreen",Out of Stock,2 Years,Black
+SMA-FOS-13,Smartwatch,Fossil,Fossil Smartwatch Model-278,132314,7,42,3.1,"GPS, Customizable Watch Faces, Waterproof",Out of Stock,1 Year,Blue
+LAP-HP-7,Laptop,HP,HP Laptop Model-990,41744,16,27,4.5,"SSD Storage, Lightweight, Backlit Keyboard",Out of Stock,3 Years,White
+SMA-FIT-15,Smartwatch,Fitbit,Fitbit Smartwatch Model-296,105263,11,49,4.3,"Waterproof, Fitness Tracking, GPS",Out of Stock,2 Years,Black
+TAB-MIC-2,Tablet,Microsoft,Microsoft Tablet Model-890,14053,18,21,3.8,"Stylus Support, Detachable Keyboard, Quad Speakers",In Stock,3 Years,Silver
+LAP-MIC-5,Laptop,Microsoft,Microsoft Laptop Model-165,90363,15,48,3.4,"Touchscreen, High-Performance GPU, SSD Storage",In Stock,1 Year,Silver
+SMA-ONE-4,Smartphone,OnePlus,OnePlus Smartphone Model-754,141484,20,50,4.3,"Water Resistant, 5G, AMOLED Display",Out of Stock,3 Years,Black
+TAB-MIC-15,Tablet,Microsoft,Microsoft Tablet Model-552,101687,5,23,4.1,"10-inch Display, Detachable Keyboard, Long Battery Life",In Stock,2 Years,Silver
+TAB-MIC-6,Tablet,Microsoft,Microsoft Tablet Model-295,67152,18,26,3.9,"Long Battery Life, 10-inch Display, Stylus Support",In Stock,3 Years,White
+HEA-SEN-5,Headphones,Sennheiser,Sennheiser Headphones Model-498,14704,20,28,4.5,"Waterproof, Bass Boost, Foldable",In Stock,2 Years,Silver
+LAP-ASU-1,Laptop,Asus,Asus Laptop Model-812,43413,16,35,4.2,"High-Performance GPU, Lightweight, SSD Storage",Out of Stock,2 Years,Silver
+SMA-FIT-11,Smartwatch,Fitbit,Fitbit Smartwatch Model-705,128432,14,37,4.1,"GPS, Heart Rate Monitor, Waterproof",Out of Stock,1 Year,Blue
+HEA-SEN-7,Headphones,Sennheiser,Sennheiser Headphones Model-371,107952,7,21,3.6,"Bass Boost, Wireless, Noise Cancellation",In Stock,2 Years,White
+HEA-BOA-14,Headphones,Boat,Boat Headphones Model-519,40396,10,37,4.1,"Wireless, Bass Boost, Waterproof",Out of Stock,3 Years,Silver
+SMA-XIA-3,Smartwatch,Xiaomi,Xiaomi Smartwatch Model-730,123743,5,30,3.9,"Fitness Tracking, Waterproof, GPS",In Stock,3 Years,White
+SMA-GOO-7,Smartphone,Google,Google Smartphone Model-806,104562,16,23,4.6,"AMOLED Display, 5G, Water Resistant",In Stock,3 Years,Red
+LAP-ASU-12,Laptop,Asus,Asus Laptop Model-717,10757,11,33,3.7,"Lightweight, SSD Storage, Backlit Keyboard",Out of Stock,1 Year,Red
+CAM-GOP-2,Camera,GoPro,GoPro Camera Model-963,46891,18,34,4.7,"Image Stabilization, Touchscreen, 4K Video",In Stock,2 Years,Silver
+LAP-APP-12,Laptop,Apple,Apple Laptop Model-570,148388,14,50,3.8,"Touchscreen, Backlit Keyboard, Lightweight",In Stock,2 Years,Black
+HEA-SON-12,Headphones,Sony,Sony Headphones Model-439,135233,5,46,5.0,"Bass Boost, Wireless, Foldable",Out of Stock,3 Years,Blue
+SMA-HUA-14,Smartwatch,Huawei,Huawei Smartwatch Model-588,94075,18,39,4.9,"Customizable Watch Faces, GPS, Waterproof",In Stock,2 Years,White
+HEA-ANK-14,Headphones,Anker,Anker Headphones Model-437,44162,12,47,3.5,"Bass Boost, Wireless, Waterproof",In Stock,3 Years,Silver
+LAP-LEN-9,Laptop,Lenovo,Lenovo Laptop Model-650,82084,11,47,4.1,"Lightweight, Backlit Keyboard, Touchscreen",In Stock,3 Years,Black
+SMA-APP-1,Smartphone,Apple,Apple Smartphone Model-740,146356,6,40,4.6,"Water Resistant, Dual SIM, Fast Charging",In Stock,2 Years,Red
+TAB-GOO-9,Tablet,Google,Google Tablet Model-214,111579,5,23,4.8,"10-inch Display, Long Battery Life, Stylus Support",In Stock,1 Year,Silver
+CAM-LEI-3,Camera,Leica,Leica Camera Model-906,125692,19,21,4.2,"High ISO Sensitivity, Touchscreen, WiFi Connectivity",Out of Stock,2 Years,Blue
+CAM-OLY-6,Camera,Olympus,Olympus Camera Model-892,87717,7,28,3.9,"Touchscreen, Image Stabilization, High ISO Sensitivity",In Stock,3 Years,Black
+SMA-SAM-4,Smartwatch,Samsung,Samsung Smartwatch Model-244,50542,20,29,3.2,"Customizable Watch Faces, Waterproof, Fitness Tracking",Out of Stock,2 Years,Blue
+SMA-APP-9,Smartphone,Apple,Apple Smartphone Model-141,120028,15,36,3.1,"5G, AMOLED Display, Water Resistant",In Stock,3 Years,Red
